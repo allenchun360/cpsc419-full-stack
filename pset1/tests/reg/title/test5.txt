@@ -1,0 +1,51 @@
+$ python3 reg.py -t " intro"
+deptname                      subject num   title                          crns 
+----------------------------- ------- ----- ------------------------------ -----
+Archaeological Studies (ARCG) ARCG    245   Archaeology of Ancient Egypt:  11722
+                                            An Introduction                     
+Archaeological Studies (ARCG) ARCG    645   Archaeology of Ancient Egypt:  11735
+                                            An Introduction                     
+Architecture (ARCH)           ARCH    345   Civic Art: Introduction to     11066
+                                            Urban Design                        
+Architecture (ARCH)           URBN    345   Civic Art: Introduction to     11067
+                                            Urban Design                        
+Chemical Engineering (CENG)   CENG    150   Engineering Improv: An         12196
+                                            Introduction to Engineering         
+                                            Analysis                            
+Chemical Engineering (CENG)   CENG    S150E Engineering Improv: An         12197
+                                            Introduction to Engineering         
+                                            Analysis                            
+Classics (CLSS)               GREK    131   Greek Prose: An Introduction   10152
+Classics (CLSS)               LATN    131   Latin Prose: An Introduction   10155
+Economics (ECON)              ECON    110   An Introduction to             11614
+                                            Microeconomic Analysis         11634
+                                                                           11635
+                                                                           11636
+Economics (ECON)              ECON    111   An Introduction to             11637
+                                            Macroeconomic Analysis              
+Humanities (HUMS)             HUMS    128   From Gilgamesh to Persepolis:  12051
+                                            Introduction to Near Eastern        
+                                            Literatures                         
+Latin American Studies (LAST) LAST    223   Spanish in Film: An            10716
+                                            Introduction to the New Latin       
+                                            American Cinema                     
+Linguistics (LING)            LING    110   Language: Introduction to      12174
+                                            Linguistics                         
+Near Eastern Languages &      NELC    128   From Gilgamesh to Persepolis:  12050
+Civilizations (NELC)                        Introduction to Near Eastern        
+                                            Literatures                         
+Near Eastern Languages &      NELC    243   Archaeology of Ancient Egypt:  11721
+Civilizations (NELC)                        An Introduction                     
+Near Eastern Languages &      NELC    627   Archaeology of Ancient Egypt:  11734
+Civilizations (NELC)                        An Introduction                     
+Physics (PHYS)                PHYS    260   Intensive Introductory Physics 12414
+School of Nursing (NURS)      NURS    905   Intervention Development and   14719
+                                            Introduction to Implementation      
+                                            Science                             
+Spanish & Portuguese (SP&P)   SPAN    223   Spanish in Film: An            10701
+                                            Introduction to the New Latin       
+                                            American Cinema                     
+Statistics and Data Science   S&DS    240   An Introduction to Probability 11224
+(S&DS)                                      Theory                              
+Statistics and Data Science   S&DS    540   An Introduction to Probability 11225
+(S&DS)                                      Theory                              

@@ -1,0 +1,35 @@
+$ python3 regdetails.py 12023
+deptcode deptname                                          subjectcode coursenum
+-------- ------------------------------------------------- ----------- ---------
+F&ES     School of Forestry & Environmental Studies (F&ES) F&ES        422      
+
+title                                                                    
+-------------------------------------------------------------------------
+Climate and Society: Perspectives from the Social Sciences and Humanities
+
+descrip                                                                         
+--------------------------------------------------------------------------------
+<p>Discussion of the major currents of thought regarding climate and climate    
+change; focusing on equity, collapse, folk knowledge, historic and contemporary 
+visions, western and non-western perspectives, drawing on the social sciences   
+and humanities.</p>                                                             
+
+prereqs
+-------
+None   
+
+sectionnumber crn   meetinginfo           
+------------- ----- ----------------------
+1             12023 Th 1.30-3.20 @ KRN 321
+
+subjectcode coursenum
+----------- ---------
+ANTH        409      
+ER&M        394      
+EVST        422      
+F&ES        422      
+GLBL        394      
+
+professors  
+------------
+Michael Dove

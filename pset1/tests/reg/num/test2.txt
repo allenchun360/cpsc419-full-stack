@@ -1,0 +1,11 @@
+$ python3 reg.py -n 101
+deptname                       subject num title                           crns 
+------------------------------ ------- --- ------------------------------- -----
+Aerospace Studies (USAF)       USAF    101 Heritage and Values of the U.S. 12841
+                                           Air Force I                          
+Biology (BIOL)                 BIOL    101 Biochemistry and Biophysics     11023
+Chemistry (CHEM)               CHEM    101 Chemistry in the Modern World   12558
+Comparative Literature (CPLT)  LITR    101 Purposes of College Education   10760
+Global Affairs Program (GLBL)  GLBL    101 Gateway to Global Affairs       10338
+Statistics and Data Science    S&DS    101 Introduction to Statistics:     11184
+(S&DS)                                     Life Sciences                        

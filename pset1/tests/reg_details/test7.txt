@@ -1,0 +1,33 @@
+$ python3 regdetails.py 10628
+deptcode deptname                              subjectcode coursenum
+-------- ------------------------------------- ----------- ---------
+SLAV     Slavic Languages & Literatures (SLAV) RUSS        125      
+
+title                       
+----------------------------
+Intensive Elementary Russian
+
+descrip                                                                         
+--------------------------------------------------------------------------------
+<p>An intensive course that covers in one term the material taught in RUSS 110  
+and 120. For students of superior linguistic ability. Study of Russian grammar; 
+practice in conversation, reading, and composition.</p>                         
+
+prereqs                                                                         
+--------------------------------------------------------------------------------
+<p class="prerequisites">Recommended for prospective majors in Russian and in   
+Russian and East European Studies.</p>                                          
+
+sectionnumber crn   meetinginfo                 
+------------- ----- ----------------------------
+1             10628 HTBA @ BASSLB L7            
+                    MWF 9.25-10.15 @ BASSLB L73 
+                    M-F 10.30-11.20 @ BASSLB L73
+
+subjectcode coursenum
+----------- ---------
+RUSS        125      
+
+professors    
+--------------
+Minjin Hashbat

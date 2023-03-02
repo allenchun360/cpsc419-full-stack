@@ -1,0 +1,9 @@
+$ python3 reg.py -n 10 -s MATH
+deptname           subject num title                                    crns 
+------------------ ------- --- ---------------------------------------- -----
+Mathematics (MATH) MATH    108 Estimation and Error                     11251
+Mathematics (MATH) MATH    110 Introduction to Functions and Calculus I 10803
+                                                                        10804
+                                                                        10805
+                                                                        15885
+Mathematics (MATH) MATH    310 Introduction to Complex Analysis         11326

@@ -1,0 +1,39 @@
+$ python3 regdetails.py 10003
+deptcode deptname                        subjectcode coursenum
+-------- ------------------------------- ----------- ---------
+AFAM     African American Studies (AFAM) AFAM        216      
+
+title                            
+---------------------------------
+Family Narratives/Cultural Shifts
+
+descrip                                                                         
+--------------------------------------------------------------------------------
+<p>This course looks at films that are redefining ideas around family and family
+narratives in relation to larger social movements. We focus on personal films by
+filmmakers who consider themselves artists, activists, or agents of change but  
+are united in their use of the nonfiction format to speak truth to power. In    
+different ways, these films use media to build community and build family and   
+ultimately, to build family albums and archives that future generations can use 
+to build their own practices. Just as the family album seeks to unite people    
+across time, space, and difference, the films and texts explored in this course 
+are also journeys that culminate in linkages, helping us understand nuances of  
+identity while illuminating personal relationships to larger cultural, social,  
+and historical movements.</p>                                                   
+
+prereqs
+-------
+None   
+
+sectionnumber crn   meetinginfo             
+------------- ----- ------------------------
+1             10003 M 7.00-10.00p @ HQ L02  
+                    T 3.30-5.20 @ WALL81 201
+
+subjectcode coursenum
+----------- ---------
+AFAM        216      
+
+professors         
+-------------------
+Thomas Allen Harris

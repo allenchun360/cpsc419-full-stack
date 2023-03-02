@@ -1,0 +1,207 @@
+$ python3 reg.py -d CP
+deptname                      subject num title                            crns 
+----------------------------- ------- --- -------------------------------- -----
+Comparative Literature (CPLT) CPLT    515 Proseminar in Comparative        14474
+                                          Literature                            
+Comparative Literature (CPLT) CPLT    554 Novel Minds: The Representation  10252
+                                          of Consciousness from Austen to       
+                                          Woolf                                 
+Comparative Literature (CPLT) CPLT    574 Marxist Theory of Literature     12559
+Comparative Literature (CPLT) CPLT    601 The Education of Princes:        13223
+                                          Medieval Advice Literature of         
+                                          Rulership and Counsel                 
+Comparative Literature (CPLT) CPLT    606 Introduction to Digital          15993
+                                          Humanities I: Architectures of        
+                                          Knowledge                             
+Comparative Literature (CPLT) CPLT    608 Non-Cynical Social Thought       15921
+Comparative Literature (CPLT) CPLT    609 Writing (with) the Self          16047
+Comparative Literature (CPLT) CPLT    615 Adapting to the Stage            14977
+Comparative Literature (CPLT) CPLT    616 Thinking Literature in German    14979
+                                          Modernism                             
+Comparative Literature (CPLT) CPLT    622 Working Group on Globalization   10777
+                                          and Culture                           
+Comparative Literature (CPLT) CPLT    647 Perspectives on the Panorama     15900
+Comparative Literature (CPLT) CPLT    654 Classics: The Arabic-Islamic     11126
+                                          World                                 
+Comparative Literature (CPLT) CPLT    657 Clarice Lispector: The Short     10722
+                                          Stories                               
+Comparative Literature (CPLT) CPLT    683 The Bible in German-Jewish       15862
+                                          Modernist Literature                  
+Comparative Literature (CPLT) CPLT    734 Fiction and the Archives         10892
+Comparative Literature (CPLT) CPLT    820 Dissertation Workshop            14038
+Comparative Literature (CPLT) CPLT    889 Postcolonial Ecologies           12454
+Comparative Literature (CPLT) CPLT    900 Directed Reading                 15813
+Comparative Literature (CPLT) CPLT    904 Psychoanalysis: Key Conceptual   11839
+                                          Differences between Freud and         
+                                          Lacan                                 
+Comparative Literature (CPLT) CPLT    946 Ecocritical Theory and Japanese  15925
+                                          Literature                            
+Comparative Literature (CPLT) CPLT    958 Black Iberia: Then and Now       14872
+Comparative Literature (CPLT) CPLT    959 Dissertation Writing Workshop    10162
+Comparative Literature (CPLT) LITR    27  Six Pretty Good Selves           10509
+Comparative Literature (CPLT) LITR    28  Medicine and the Humanities:     13899
+                                          Certainty and Unknowing               
+Comparative Literature (CPLT) LITR    30  Bilingual Imaginaries: Thinking, 15112
+                                          Writing, and Living across            
+                                          Languages                             
+Comparative Literature (CPLT) LITR    39  Paris in the 1920s               14153
+Comparative Literature (CPLT) LITR    99  Film and the Arts                14459
+Comparative Literature (CPLT) LITR    101 Purposes of College Education    10760
+Comparative Literature (CPLT) LITR    125 The Bible in German-Jewish       14002
+                                          Modernist Literature                  
+Comparative Literature (CPLT) LITR    128 Adapting to the Stage            15936
+Comparative Literature (CPLT) LITR    129 Thinking Literature in German    13999
+                                          Modernism                             
+Comparative Literature (CPLT) LITR    140 How To Compare                   10510
+Comparative Literature (CPLT) LITR    168 Tragedy in the European Literary 10197
+                                          Tradition                             
+Comparative Literature (CPLT) LITR    169 Epic in the European Literary    10200
+                                          Tradition                             
+Comparative Literature (CPLT) LITR    178 Classics of the Arabic-Islamic   11294
+                                          World                                 
+Comparative Literature (CPLT) LITR    183 Dante in Translation             10507
+Comparative Literature (CPLT) LITR    184 Ecocritical Theory and Japanese  15417
+                                          Literature                            
+Comparative Literature (CPLT) LITR    198 The Tale of Genji                14013
+Comparative Literature (CPLT) LITR    239 Dionysus in Modernity            15872
+Comparative Literature (CPLT) LITR    253 Tolstoy's <i> War and Peace      10751
+                                          </i>TR                                
+Comparative Literature (CPLT) LITR    254 Modern Chinese Literature        15956
+Comparative Literature (CPLT) LITR    256 Clarice Lispector: The Short     10721
+                                          Stories                               
+Comparative Literature (CPLT) LITR    259 Concrete Poetry in Brazil &      10788
+                                          Portugal: Verbivocovisual             
+                                          Poetics in Theory and Practice        
+Comparative Literature (CPLT) LITR    284 Mad Poets                        10852
+Comparative Literature (CPLT) LITR    295 Caribbean Diasporic Literature   13248
+Comparative Literature (CPLT) LITR    317 Marxist Theory of Literature     12446
+Comparative Literature (CPLT) LITR    349 Tragedy and Drama of             11855
+                                          Reconciliation                        
+Comparative Literature (CPLT) LITR    353 Greek Tragedy and Psychoanalysis 11518
+Comparative Literature (CPLT) LITR    374 German Cinema 1918–1933          11864
+Comparative Literature (CPLT) LITR    385 Black Queer Jewish Italy         15121
+Comparative Literature (CPLT) LITR    386 Fate and Chance in Art and       12250
+                                          Experience                            
+Comparative Literature (CPLT) LITR    388 The Education of Princes:        13018
+                                          Medieval Advice Literature of         
+                                          Rulership and Counsel                 
+Comparative Literature (CPLT) LITR    390 Writing (with) the Self          16083
+Comparative Literature (CPLT) LITR    414 Non-Cynical Social Thought       13258
+Comparative Literature (CPLT) LITR    418 The Classics of Modern Hebrew    12449
+                                          Literature                            
+Comparative Literature (CPLT) LITR    431 Latin American Languages of      11890
+                                          Liberation: The Long Sixties          
+Comparative Literature (CPLT) LITR    441 Marx, Nietzsche, Freud           16086
+Comparative Literature (CPLT) LITR    482 The Mortality of the Soul: From  10511
+                                          Aristotle to Heidegger                
+Comparative Literature (CPLT) LITR    483 Thought Experiments: Connecting  10476
+                                          Literature, Philosophy and the        
+                                          Natural Sciences                      
+Comparative Literature (CPLT) LITR    491 The Senior Essay                 14255
+Comparative Literature (CPLT) LITR    492 The Yearlong Senior Essay        14256
+Computer Science (CPSC)       CPAR    491 Senior Project in Computing and  10873
+                                          the Arts                              
+Computer Science (CPSC)       CPSC    100 Introduction to Computing and    10932
+                                          Programming                           
+Computer Science (CPSC)       CPSC    110 Python Programming for           15910
+                                          Humanities and Social Sciences        
+Computer Science (CPSC)       CPSC    150 Computer Science and the Modern  10886
+                                          Intellectual Agenda                   
+Computer Science (CPSC)       CPSC    183 Law, Technology, and Culture     10944
+Computer Science (CPSC)       CPSC    200 Introduction to Information      10947
+                                          Systems                               
+Computer Science (CPSC)       CPSC    201 Introduction to Computer Science 10948
+Computer Science (CPSC)       CPSC    202 Mathematical Tools for Computer  10921
+                                          Science                               
+Computer Science (CPSC)       CPSC    223 Data Structures and Programming  10917
+                                          Techniques                            
+Computer Science (CPSC)       CPSC    280 Directed Reading                 13793
+Computer Science (CPSC)       CPSC    290 Directed Research                13794
+Computer Science (CPSC)       CPSC    323 Introduction to Systems          10878
+                                          Programming and Computer              
+                                          Organization                          
+Computer Science (CPSC)       CPSC    327 Object-Oriented Programming      10914
+Computer Science (CPSC)       CPSC    334 Creative Embedded Systems        10936
+Computer Science (CPSC)       CPSC    413 Computer System Security         10915
+Computer Science (CPSC)       CPSC    414 Computing Then and Now:  How     10885
+                                          Digital Technology Evolves            
+Computer Science (CPSC)       CPSC    415 Law, Security, and Logic         13915
+Computer Science (CPSC)       CPSC    419 Full Stack Web Programming       13382
+Computer Science (CPSC)       CPSC    422 Design and Implementation of     10902
+                                          Operating Systems                     
+Computer Science (CPSC)       CPSC    424 Parallel Programming Techniques  10945
+Computer Science (CPSC)       CPSC    429 Principles of Computer System    10910
+                                          Design                                
+Computer Science (CPSC)       CPSC    431 Computer Music: Algorithmic and  10939
+                                          Heuristic Composition                 
+Computer Science (CPSC)       CPSC    435 Building an Internet Router      10906
+Computer Science (CPSC)       CPSC    437 Introduction to Database Systems 10904
+Computer Science (CPSC)       CPSC    439 Software Engineering             10912
+Computer Science (CPSC)       CPSC    446 Data and Information             10898
+                                          Visualization                         
+Computer Science (CPSC)       CPSC    447 Introduction to Quantum          10882
+                                          Computing                             
+Computer Science (CPSC)       CPSC    448 Silicon Compilation              12497
+Computer Science (CPSC)       CPSC    455 Economics and Computation        10879
+Computer Science (CPSC)       CPSC    459 Building Interactive Machines    10908
+Computer Science (CPSC)       CPSC    464 Algorithms and their Societal    13207
+                                          Implications                          
+Computer Science (CPSC)       CPSC    465 Theory of Distributed Systems    10876
+Computer Science (CPSC)       CPSC    468 Computational Complexity         10922
+Computer Science (CPSC)       CPSC    472 Intelligent Robotics             10900
+Computer Science (CPSC)       CPSC    474 Computational Intelligence for   10919
+                                          Games                                 
+Computer Science (CPSC)       CPSC    475 Computational Vision and         10955
+                                          Biological Perception                 
+Computer Science (CPSC)       CPSC    479 Advanced Topics in Computer      13970
+                                          Graphics                              
+Computer Science (CPSC)       CPSC    483 Deep Learning on Graph-          15816
+                                          Structured Data                       
+Computer Science (CPSC)       CPSC    490 Senior Project                   10874
+Computer Science (CPSC)       CPSC    513 Computer System Security         10916
+Computer Science (CPSC)       CPSC    515 Law, Security, and Logic         16178
+Computer Science (CPSC)       CPSC    519 Full Stack Web Programming       13385
+Computer Science (CPSC)       CPSC    522 Operating Systems                10903
+Computer Science (CPSC)       CPSC    524 Parallel Programming Techniques  10946
+Computer Science (CPSC)       CPSC    529 Principles of Computer System    10911
+                                          Design                                
+Computer Science (CPSC)       CPSC    531 Computer Music: Algorithmic and  10943
+                                          Heuristic Composition                 
+Computer Science (CPSC)       CPSC    535 Building an Internet Router      10907
+Computer Science (CPSC)       CPSC    537 Introduction to Database Systems 10905
+Computer Science (CPSC)       CPSC    539 Software Engineering             10913
+Computer Science (CPSC)       CPSC    546 Data and Information             10899
+                                          Visualization                         
+Computer Science (CPSC)       CPSC    547 Introduction to Quantum          10883
+                                          Computing                             
+Computer Science (CPSC)       CPSC    555 Economics and Computation        10881
+Computer Science (CPSC)       CPSC    559 Building Interactive Machines    10909
+Computer Science (CPSC)       CPSC    564 Algorithms and their Societal    13388
+                                          Implications                          
+Computer Science (CPSC)       CPSC    565 Theory of Distributed Systems    10877
+Computer Science (CPSC)       CPSC    568 Computational Complexity         10923
+Computer Science (CPSC)       CPSC    572 Intelligent Robotics             10901
+Computer Science (CPSC)       CPSC    574 Computational Intelligence for   10920
+                                          Games                                 
+Computer Science (CPSC)       CPSC    575 Computational Vision and         10958
+                                          Biological Perception                 
+Computer Science (CPSC)       CPSC    579 Advanced Topics in Computer      15830
+                                          Graphics                              
+Computer Science (CPSC)       CPSC    583 Deep Learning on Graph-          15817
+                                          Structured Data                       
+Computer Science (CPSC)       CPSC    611 Topics in Computer Science and   13200
+                                          Global Affairs                        
+Computer Science (CPSC)       CPSC    644 Geometric and Topological        13093
+                                          Methods in Machine Learning           
+Computer Science (CPSC)       CPSC    668 Frontiers of Blockchain Research 12998
+Computer Science (CPSC)       CPSC    672 Interactive Robot Learning       15808
+Computer Science (CPSC)       CPSC    676 Advanced Computer Vision         15267
+Computer Science (CPSC)       CPSC    685 Topics in Robot Motion           15954
+                                          Generation                            
+Computer Science (CPSC)       CPSC    690 Independent Project I            10896
+Computer Science (CPSC)       CPSC    691 Independent Project II           10897
+Computer Science (CPSC)       CPSC    990 Ethical Conduct of Research for  10893
+                                          Master’s Students                     
+Computer Science (CPSC)       CPSC    991 Ethical Conduct of Research      10894
+Computer Science (CPSC)       CPSC    992 Academic Writing                 15268
+Computer Science (CPSC)       CSEC    491 Senior Project                   10875

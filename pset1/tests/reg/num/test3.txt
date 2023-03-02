@@ -1,0 +1,61 @@
+$ python3 reg.py -n 19
+deptname                       subject num  title                          crns 
+------------------------------ ------- ---- ------------------------------ -----
+African American Studies       AFAM    192  Third World Studies            10285
+(AFAM)                                                                          
+American Studies (AMST)        AMST    197  American Architecture and      11016
+                                            Urbanism                            
+American Studies (AMST)        AMST    419  Jews and Photography           15234
+Applied Physics (APHY)         APHY    194  Ordinary and Partial           11494
+                                            Differential Equations with         
+                                            Applications                        
+Chemistry (CHEM)               CHEM    419  Foundations of Chemical        12541
+                                            Biology                             
+Chemistry (CHEM)               CHEM    519  Foundations of Chemical        12615
+                                            Biology                             
+Comparative Literature (CPLT)  LITR    198  The Tale of Genji              14013
+Computer Science (CPSC)        CPSC    419  Full Stack Web Programming     13382
+Computer Science (CPSC)        CPSC    519  Full Stack Web Programming     13385
+East Asian Studies (EAST)      EAST    119  Introduction to the History of 10472
+                                            Art: Asian Art and Culture          
+Economics (ECON)               ECON    419  Financial Time Series          11678
+                                            Econometrics                        
+Engineering & Applied Science  ENAS    194  Ordinary and Partial           11493
+(ENAS)                                      Differential Equations with         
+                                            Applications                        
+English Language & Literature  ENGL    419  Writing about Contemporary     10215
+(ENGL)                                      Figurative Art                      
+Ethnicity, Race, & Migration   ER&M    219  Jewish History and Thought to  10422
+(ER&M)                                      Early Modern Times                  
+French (FREN)                  FREN    191  Translation                    10846
+Hist of Science, Hist of Med   HSHM    419  Madness and Decolonization     10021
+(HSHM)                                                                          
+History (HIST)                 HIST    219  Jewish History and Thought to  10370
+                                            Early Modern Times                  
+History (HIST)                 HIST    190J Technology in American         10036
+                                            Medicine from Leeches to            
+                                            Surgical Robots                     
+History of Art (HSAR)          HSAR    119  Introduction to the History of 10462
+                                            Art: Asian Art and Culture          
+History of Art (HSAR)          HSAR    219  American Architecture and      11017
+                                            Urbanism                            
+History of Art (HSAR)          HSAR    419  Jews and Photography           15235
+Humanities (HUMS)              HUMS    193  Screening the Past             11618
+Humanities (HUMS)              HUMS    195  Thinking Literature in German  13998
+                                            Modernism                           
+Humanities (HUMS)              HUMS    199  American Romanticism: Emerson  13802
+                                            to Ashbery                          
+Linguistics (LING)             LING    119  How to Create a Language:      15140
+                                            Constructed Language and            
+                                            Natural Language                    
+Linguistics (LING)             LING    519  Perspectives on Grammar        12979
+Mathematics (MATH)             MATH    719  Introduction to Anosov         12505
+                                            Subgroups                           
+Philosophy (PHIL)              PHIL    719  Faith and the Will             10581
+Political Science (PLSC)       PLSC    219  Politics of the Environment    15420
+Religious Studies (RLST)       RLST    195  Meanings of Life               12247
+Sociology (SOCY)               SOCY    619  Non-Cynical Social Thought     15922
+South Asian Studies (SAST)     HNDI    198  Advanced Tutorial              12464
+Theater Studies (THST)         THST    319  Embodying Story                12361
+Women's Gender & Sexuality     WGSS    195  Meanings of Life               12274
+Studies (WGSS)                                                                  

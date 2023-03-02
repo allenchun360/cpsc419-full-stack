@@ -1,0 +1,40 @@
+$ python3 regdetails.py 13382
+deptcode deptname                subjectcode coursenum
+-------- ----------------------- ----------- ---------
+CPSC     Computer Science (CPSC) CPSC        419      
+
+title                     
+--------------------------
+Full Stack Web Programming
+
+descrip                                                                         
+--------------------------------------------------------------------------------
+<p>This course introduces students to a variety of advanced software engineering
+and programming techniques in the context of full-stack web programming. The    
+focus of the course includes both client- and server-side programming (and      
+database programming), client/server communication, user interface programming, 
+and parallel programming. This course is designed for students who have taken   
+CPSC 223 (but do not need CPSC 323 or higher-level computer science systems     
+courses) and wish to learn the complete programming framework of Web            
+programming. For a systematic treatment of core software engineering techniques,
+using Web programming as a running example framework, consider taking CPSC 439, 
+which targets students with more extensive programming experiences (after CPSC  
+323).</p>                                                                       
+
+prereqs                                            
+---------------------------------------------------
+<p class="prerequisites">Prerequisite: CPSC 223</p>
+
+sectionnumber crn   meetinginfo          
+------------- ----- ---------------------
+1             13382 MW 1.00-2.15 @ ML 211
+
+subjectcode coursenum
+----------- ---------
+CPSC        419      
+CPSC        519      
+
+professors
+----------
+Alan Weide
+Jay Lim   

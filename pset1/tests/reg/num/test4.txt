@@ -1,0 +1,1720 @@
+$ python3 reg.py -n 1
+deptname                      subject num   title                          crns 
+----------------------------- ------- ----- ------------------------------ -----
+Aerospace Studies (USAF)      USAF    101   Heritage and Values of the     12841
+                                            U.S. Air Force I                    
+Aerospace Studies (USAF)      USAF    201   Team and Leadership            12842
+                                            Fundamentals II                     
+Aerospace Studies (USAF)      USAF    301   Leading People and Effective   12844
+                                            Communication I                     
+Aerospace Studies (USAF)      USAF    411   Foundations of American        12845
+                                            Airpower                            
+African American Studies      AFAM    115   “We Interrupt this Program:    10737
+(AFAM)                                      The Multidimensional Histories      
+                                            of Queer and Trans Politics”        
+African American Studies      AFAM    122   Art Collectives: Protest,      12251
+(AFAM)                                      Entrepreneurship, and Praxis        
+African American Studies      AFAM    186   Contesting Injustice           12093
+(AFAM)                                                                          
+African American Studies      AFAM    192   Third World Studies            10285
+(AFAM)                                                                          
+African American Studies      AFAM    216   Family Narratives/Cultural     10003
+(AFAM)                                      Shifts                              
+African American Studies      AFAM    271   The Venice Biennale, Art       13636
+(AFAM)                                      Fairs, and Foundations              
+African American Studies      AFAM    313   Embodying Story                12362
+(AFAM)                                                                          
+African American Studies      AFAM    331   Black Film and Theatre         14880
+(AFAM)                                                                          
+African American Studies      AFAM    413   Samuel Delany and His Worlds   16099
+(AFAM)                                                                          
+African American Studies      AFAM    471   Independent Study: African     10005
+(AFAM)                                      American Studies                    
+African American Studies      AFAM    561   Caribbean Literary and         14845
+(AFAM)                                      Cultural Studies                    
+African American Studies      AMST    913   Black Elsewhere(s): Race and   16183
+(AFAM)                                      Space                               
+African Studies (AFST)        AFST    411   Madness and Decolonization     14448
+African Studies (AFST)        AFST    491   The Senior Essay               12805
+African Studies (AFST)        SWAH    110   Beginning Kiswahili I          12794
+African Studies (AFST)        SWAH    130   Intermediate Kiswahili I       12795
+African Studies (AFST)        SWAH    150   Advanced Kiswahili I           12796
+African Studies (AFST)        SWAH    170   Topics in Kiswahili Literature 12797
+African Studies (AFST)        SWAH    610   Beginning Kiswahili I          12819
+African Studies (AFST)        TWI     130   Intermediate Twi Language      12818
+                                            Course I                            
+African Studies (AFST)        WLOF    110   Elementary Wolof I             12814
+African Studies (AFST)        WLOF    130   Intermediate Wolof I           12815
+African Studies (AFST)        WLOF    150   Advanced Wolof                 12816
+African Studies (AFST)        YORU    110   Beginning Yorùbá I             12801
+African Studies (AFST)        YORU    130   Intermediate Yorùbá I          12802
+African Studies (AFST)        YORU    150   Advanced Yorùbá I              12803
+African Studies (AFST)        YORU    170   Topics in Yorùbá Literature    12804
+                                            and Culture                         
+African Studies (AFST)        YORU    610   Beginning Yorùbá I             12823
+African Studies (AFST)        ZULU    110   Beginning isiZulu I            12798
+African Studies (AFST)        ZULU    130   Intermediate isiZulu I         12799
+African Studies (AFST)        ZULU    150   Advanced isiZulu I             12800
+African Studies (AFST)        ZULU    610   Beginning isiZulu I            12827
+American Studies (AMST)       AMST    197   American Architecture and      11016
+                                            Urbanism                            
+American Studies (AMST)       AMST    241   Poets and their Papers         10866
+American Studies (AMST)       AMST    331   Photographing the City: Urban  15230
+                                            Pictures, Urban Places              
+American Studies (AMST)       AMST    413   Writer/Rioter: Public Writing  15915
+                                            in the 21st Century                 
+American Studies (AMST)       AMST    419   Jews and Photography           15234
+American Studies (AMST)       AMST    441   Indians and the Spanish        10063
+                                            Borderlands                         
+American Studies (AMST)       AMST    461   Identity, Diversity, and       11624
+                                            Policy in U.S. Education            
+American Studies (AMST)       AMST    471   Individual Reading and         10064
+                                            Research for Juniors and            
+                                            Seniors                             
+American Studies (AMST)       AMST    491   Senior Project                 10065
+American Studies (AMST)       AMST    612   Caribbean Literary and         14846
+                                            Cultural Studies                    
+American Studies (AMST)       AMST    731   Methods and Practices in U.S.  10448
+                                            Cultural History                    
+American Studies (AMST)       AMST    741   Indians and Empires            11356
+American Studies (AMST)       AMST    901   Directed Reading               10075
+American Studies (AMST)       AMST    917   American Studies               14184
+                                            Professionalization Workshop        
+Anthropology (ANTH)           ANTH    11    Reproductive Technologies      12653
+Anthropology (ANTH)           ANTH    61    Understanding Human Origins    13199
+Anthropology (ANTH)           ANTH    116   Introduction to Biological     11271
+                                            Anthropology                        
+Anthropology (ANTH)           ANTH    140   The Corporation                11261
+Anthropology (ANTH)           ANTH    171   Great Civilizations of the     10106
+                                            Ancient World                       
+Anthropology (ANTH)           ANTH    210   Birth: Intersections between   13395
+                                            Biology, Culture, and Society       
+Anthropology (ANTH)           ANTH    213   Contemporary Japan and the     12194
+                                            Ghosts of Modernity                 
+Anthropology (ANTH)           ANTH    217   Hormones, Evolution, and Human 10080
+                                            Behavior                            
+Anthropology (ANTH)           ANTH    311   Anthropological Theory and the 10082
+                                            Post Colonial Encounter             
+Anthropology (ANTH)           ANTH    381   Sex and Global Politics        14434
+Anthropology (ANTH)           ANTH    401   Meaning and Materiality        10084
+Anthropology (ANTH)           ANTH    415   Culture, History, Power, and   11297
+                                            Representation                      
+Anthropology (ANTH)           ANTH    441   Gender and Citizenship in the  10733
+                                            Middle East                         
+Anthropology (ANTH)           ANTH    471   Readings in Anthropology       10085
+Anthropology (ANTH)           ANTH    491   The Senior Essay               10087
+Anthropology (ANTH)           ANTH    515   Culture, History, Power, and   11276
+                                            Representation                      
+Anthropology (ANTH)           ANTH    541   Agrarian Societies: Culture,   11264
+                                            Society, History, and               
+                                            Development                         
+Anthropology (ANTH)           ANTH    581   Power, Knowledge, and the      11259
+                                            Environment: Social Science         
+                                            Theory and Method                   
+Anthropology (ANTH)           ANTH    601   Meaning and Materiality        10088
+Anthropology (ANTH)           ANTH    612   Latinx Ethnography             10078
+Anthropology (ANTH)           ANTH    621   Engaging Anthropology:         11274
+                                            Histories, Theories, and            
+                                            Practices                           
+Anthropology (ANTH)           ANTH    801   Sexual Selection and Parental  12234
+                                            Investment                          
+Anthropology (ANTH)           ANTH    851   Topics and Issues in           10091
+                                            Evolutionary Theory                 
+Anthropology (ANTH)           ANTH    951   Directed Research in Ethnology 10093
+                                            and Social Anthropology             
+Anthropology (ANTH)           ANTH    316L  Introduction to Archaeological 12228
+                                            Laboratory Sciences                 
+Anthropology (ANTH)           ANTH    716L  Introduction to Archaeological 12230
+                                            Laboratory Sciences                 
+Applied Mathematics (AMTH)    AMTH    431   Optimization and Computation   12269
+Applied Mathematics (AMTH)    AMTH    491   Senior Project                 10098
+Applied Mathematics (AMTH)    AMTH    631   Optimization and Computation   12271
+Applied Mathematics (AMTH)    AMTH    701   Topics in Analysis             11555
+Applied Physics (APHY)        APHY    151   Multivariable Calculus for     11491
+                                            Engineers                           
+Applied Physics (APHY)        APHY    194   Ordinary and Partial           11494
+                                            Differential Equations with         
+                                            Applications                        
+Applied Physics (APHY)        APHY    471   Senior Special Projects        11396
+Archaeological Studies (ARCG) ARCG    161   Art and Myth in Greek          10471
+                                            Antiquity                           
+Archaeological Studies (ARCG) ARCG    171   Great Civilizations of the     10101
+                                            Ancient World                       
+Archaeological Studies (ARCG) ARCG    316L  Introduction to Archaeological 12227
+                                            Laboratory Sciences                 
+Archaeological Studies (ARCG) ARCG    716L  Introduction to Archaeological 12229
+                                            Laboratory Sciences                 
+Architecture (ARCH)           ARCH    150   Introduction to Architecture   10994
+Architecture (ARCH)           ARCH    161   Introduction to Structures     10996
+Architecture (ARCH)           ARCH    314   History of Landscape in        14534
+                                            Western Europe and the United       
+                                            States: Antiquity to 1950           
+Architecture (ARCH)           ARCH    471   Individual Tutorial            11122
+Architecture (ARCH)           ARCH    551   Ph.D. Seminar: History/Theory  13906
+                                            I                                   
+Architecture (ARCH)           URBN    314   History of Landscape in        14535
+                                            Western Europe and the United       
+                                            States: Antiquity to 1950           
+Art (ART)                     ART     10    Interdisciplinary Exploration  11372
+                                            For Making Fictional Worlds,        
+                                            Flying Machines, and Shaking        
+                                            Things Up                           
+Art (ART)                     ART     111   Visual Thinking                11400
+Art (ART)                     ART     114   Basic Drawing                  11401
+                                                                           11402
+                                                                           11403
+                                                                           11404
+Art (ART)                     ART     116   Color Practice                 11405
+Art (ART)                     ART     120   Introduction to Sculpture:     11406
+                                            Wood                                
+Art (ART)                     ART     121   Introduction to Sculpture:     11407
+                                            Metal                               
+Art (ART)                     ART     130   Painting Basics                11408
+                                                                           11409
+Art (ART)                     ART     132   Introduction to Graphic Design 11410
+                                                                           11411
+Art (ART)                     ART     136   Black & White Photography      11418
+                                            Capturing Light                     
+Art (ART)                     ART     138   Digital Photography Seeing in  11422
+                                            Color                          11423
+Art (ART)                     ART     142   Introductory Documentary       11424
+                                            Filmmaking                          
+Art (ART)                     ART     184   3D Modeling for Creative       11430
+                                            Practice                            
+Art (ART)                     ART     185   Principles of Animation        11431
+Art (ART)                     ART     216   The Body as Stage: Experiments 12355
+                                            in Performance Art             13994
+Art (ART)                     ART     241   Introductory Film Writing and  11432
+                                            Directing                           
+Art (ART)                     ART     401   Photography Project Seminar    11442
+Art (ART)                     ART     471   Independent Projects           11446
+Astronomy (ASTR)              ASTR    110   Planets and Stars              10109
+Astronomy (ASTR)              ASTR    155   Introduction to Astronomical   10110
+                                            Observing                           
+Astronomy (ASTR)              ASTR    160   Frontiers and Controversies in 10111
+                                            Astrophysics                        
+Astronomy (ASTR)              ASTR    310   Galactic and Extragalactic     10113
+                                            Astronomy                           
+Astronomy (ASTR)              ASTR    471   Independent Project in         10115
+                                            Astronomy                           
+Astronomy (ASTR)              ASTR    610   The Theory of Galaxy Formation 10122
+Astronomy (ASTR)              ASTR    710   Professional Seminar           15197
+Biology (BIOL)                BIOL    101   Biochemistry and Biophysics    11023
+Biology (BIOL)                BIOL    102   Principles of Cell Biology     11025
+Biology (BIOL)                BIOL    103   Genetics and Development       11027
+Biology (BIOL)                BIOL    104   Principles of Ecology and      11029
+                                            Evolutionary Biology                
+Biomedical Engineering (BENG) BENG    410   Physical and Chemical Basis of 10129
+                                            Bioimaging and Biosensing           
+Biomedical Engineering (BENG) BENG    411   BioMEMS and Biomedical         10130
+                                            Microdevices                        
+Biomedical Engineering (BENG) BENG    471   Special Projects               10136
+Cell & Molecular Physiology   C&MP    610   Medical Research Scholars      15722
+(C&MP)                                      Program: Mentored Clinical          
+                                            Experience                          
+Cell Biology (CBIO)           CBIO    501   Molecules to Systems           13721
+Cell Biology (CBIO)           CBIO    911   First Laboratory Rotation      13332
+Cell Biology (CBIO)           CBIO    912   Second Laboratory Rotation     13335
+Chemical Engineering (CENG)   CENG    150   Engineering Improv: An         12196
+                                            Introduction to Engineering         
+                                            Analysis                            
+Chemical Engineering (CENG)   CENG    314   Transport Phenomena I          12198
+Chemical Engineering (CENG)   CENG    411   Separation and Purification    12200
+                                            Processes                           
+Chemical Engineering (CENG)   CENG    471   Independent Research           12203
+Chemical Engineering (CENG)   CENG    S150E Engineering Improv: An         12197
+                                            Introduction to Engineering         
+                                            Analysis                            
+Chemistry (CHEM)              CHEM    101   Chemistry in the Modern World  12558
+Chemistry (CHEM)              CHEM    161   General Chemistry I            11231
+                                                                           15987
+Chemistry (CHEM)              CHEM    163   Advanced General Chemistry I   11235
+Chemistry (CHEM)              CHEM    165   General Chemistry II           11234
+Chemistry (CHEM)              CHEM    174   Organic Chemistry for First    11236
+                                            Year Students I                     
+Chemistry (CHEM)              CHEM    416   Organic Structure and          12537
+                                            Energetics                          
+Chemistry (CHEM)              CHEM    417   Kinetics and Thermodynamics in 12538
+                                            Organic Systems                     
+Chemistry (CHEM)              CHEM    419   Foundations of Chemical        12541
+                                            Biology                             
+Chemistry (CHEM)              CHEM    516   Organic Structure and          12613
+                                            Energetics                          
+Chemistry (CHEM)              CHEM    517   Kinetics and Thermodynamics in 12614
+                                            Organic Systems                     
+Chemistry (CHEM)              CHEM    519   Foundations of Chemical        12615
+                                            Biology                             
+Chemistry (CHEM)              CHEM    134L  General Chemistry Laboratory I 11241
+Chemistry (CHEM)              CHEM    136L  General Chemistry Laboratory   11243
+                                            II                                  
+Child Study Center (CHLD)     CHLD    125   Child Development              12290
+Classics (CLSS)               CLCV    125   Introduction to Ancient        10579
+                                            Philosophy                          
+Classics (CLSS)               CLCV    161   Art and Myth in Greek          10470
+                                            Antiquity                           
+Classics (CLSS)               CLCV    216   Dionysus in Modernity          15871
+Classics (CLSS)               CLSS    851   American Epics                 13893
+Classics (CLSS)               CLSS    881   Proseminar: Classical Studies  10160
+Classics (CLSS)               GREK    110   Beginning Greek: The Elements  10151
+                                            of Greek Grammar                    
+Classics (CLSS)               GREK    131   Greek Prose: An Introduction   10152
+Classics (CLSS)               LATN    110   Beginning Latin: The Elements  10154
+                                            of Latin Grammar               12057
+Classics (CLSS)               LATN    131   Latin Prose: An Introduction   10155
+Classics (CLSS)               LATN    411   Early Rome from Aeneas to      12058
+                                            Romulus                             
+Classics (CLSS)               LATN    421   Vergil's <I>Aeneid</I>         10156
+Classics (CLSS)               LATN    721   Vergil’s <i>Aeneid</i>         12070
+Cognitive Science (CGSC)      CGSC    110   Introduction to Cognitive      11142
+                                            Science                             
+Cognitive Science (CGSC)      CGSC    175   The Mystery of Sleep           13062
+Cognitive Science (CGSC)      CGSC    315   The Modern Unconscious         11950
+                                                                           14450
+                                                                           14520
+                                                                           14522
+Cognitive Science (CGSC)      CGSC    471   Directed Research in Cognitive 10778
+                                            Science                             
+Comparative Literature (CPLT) CPLT    515   Proseminar in Comparative      14474
+                                            Literature                          
+Comparative Literature (CPLT) CPLT    601   The Education of Princes:      13223
+                                            Medieval Advice Literature of       
+                                            Rulership and Counsel               
+Comparative Literature (CPLT) CPLT    615   Adapting to the Stage          14977
+Comparative Literature (CPLT) CPLT    616   Thinking Literature in German  14979
+                                            Modernism                           
+Comparative Literature (CPLT) LITR    101   Purposes of College Education  10760
+Comparative Literature (CPLT) LITR    125   The Bible in German-Jewish     14002
+                                            Modernist Literature                
+Comparative Literature (CPLT) LITR    128   Adapting to the Stage          15936
+Comparative Literature (CPLT) LITR    129   Thinking Literature in German  13999
+                                            Modernism                           
+Comparative Literature (CPLT) LITR    140   How To Compare                 10510
+Comparative Literature (CPLT) LITR    168   Tragedy in the European        10197
+                                            Literary Tradition                  
+Comparative Literature (CPLT) LITR    169   Epic in the European Literary  10200
+                                            Tradition                           
+Comparative Literature (CPLT) LITR    178   Classics of the Arabic-Islamic 11294
+                                            World                               
+Comparative Literature (CPLT) LITR    183   Dante in Translation           10507
+Comparative Literature (CPLT) LITR    184   Ecocritical Theory and         15417
+                                            Japanese Literature                 
+Comparative Literature (CPLT) LITR    198   The Tale of Genji              14013
+Comparative Literature (CPLT) LITR    317   Marxist Theory of Literature   12446
+Comparative Literature (CPLT) LITR    414   Non-Cynical Social Thought     13258
+Comparative Literature (CPLT) LITR    418   The Classics of Modern Hebrew  12449
+                                            Literature                          
+Comparative Literature (CPLT) LITR    431   Latin American Languages of    11890
+                                            Liberation: The Long Sixties        
+Comparative Literature (CPLT) LITR    441   Marx, Nietzsche, Freud         16086
+Comparative Literature (CPLT) LITR    491   The Senior Essay               14255
+ComputationalBio&Bioinformati CB&B    711   Lab Rotations                  15879
+c (CB&B)                                                                        
+Computer Science (CPSC)       CPAR    491   Senior Project in Computing    10873
+                                            and the Arts                        
+Computer Science (CPSC)       CPSC    100   Introduction to Computing and  10932
+                                            Programming                         
+Computer Science (CPSC)       CPSC    110   Python Programming for         15910
+                                            Humanities and Social Sciences      
+Computer Science (CPSC)       CPSC    150   Computer Science and the       10886
+                                            Modern Intellectual Agenda          
+Computer Science (CPSC)       CPSC    183   Law, Technology, and Culture   10944
+Computer Science (CPSC)       CPSC    201   Introduction to Computer       10948
+                                            Science                             
+Computer Science (CPSC)       CPSC    413   Computer System Security       10915
+Computer Science (CPSC)       CPSC    414   Computing Then and Now:  How   10885
+                                            Digital Technology Evolves          
+Computer Science (CPSC)       CPSC    415   Law, Security, and Logic       13915
+Computer Science (CPSC)       CPSC    419   Full Stack Web Programming     13382
+Computer Science (CPSC)       CPSC    431   Computer Music: Algorithmic    10939
+                                            and Heuristic Composition           
+Computer Science (CPSC)       CPSC    513   Computer System Security       10916
+Computer Science (CPSC)       CPSC    515   Law, Security, and Logic       16178
+Computer Science (CPSC)       CPSC    519   Full Stack Web Programming     13385
+Computer Science (CPSC)       CPSC    531   Computer Music: Algorithmic    10943
+                                            and Heuristic Composition           
+Computer Science (CPSC)       CPSC    611   Topics in Computer Science and 13200
+                                            Global Affairs                      
+Computer Science (CPSC)       CPSC    691   Independent Project II         10897
+Computer Science (CPSC)       CPSC    991   Ethical Conduct of Research    10894
+Computer Science (CPSC)       CSEC    491   Senior Project                 10875
+Directed Studies (DRST)       DRST    1     Directed Studies: Literature   14686
+                                                                           14688
+                                                                           14689
+                                                                           14690
+                                                                           14691
+                                                                           14692
+                                                                           14991
+Early Modern Studies (EMST)   EMST    521   Burke, Revolution, and Empire  14952
+Early Modern Studies (EMST)   EMST    531   Land, Labour, and Slavery from 14951
+                                            Hobbes to Defoe                     
+Early Modern Studies (EMST)   EMST    551   American Epics                 14865
+Early Modern Studies (EMST)   EMST    817   Early Modern Studies Practicum 14868
+Earth and Planetary Sciences  EPS     100   Natural Disasters              12113
+(EPS)                                                                           
+Earth and Planetary Sciences  EPS     110   Dynamic Earth                  12089
+(EPS)                                                                           
+Earth and Planetary Sciences  EPS     261   Minerals and Human Health      13631
+(EPS)                                                                           
+Earth and Planetary Sciences  EPS     312   Structural Geology             12080
+(EPS)                                                                           
+Earth and Planetary Sciences  EPS     491   Research and Senior Thesis     12141
+(EPS)                                                                           
+Earth and Planetary Sciences  EPS     512   Structural Geology             12081
+(EPS)                                                                           
+Earth and Planetary Sciences  EPS     710   Ethical Conduct and Scientific 12146
+(EPS)                                       Research                            
+Earth and Planetary Sciences  EPS     721   Topics in Geobiology           15387
+(EPS)                                                                           
+Earth and Planetary Sciences  EPS     111L  Dynamic Earth Laboratory and   12090
+(EPS)                                       Field Methods                       
+East Asian Langs & Lits       CHNS    110   Elementary Modern Chinese I    11148
+(EALL)                                                                     11149
+                                                                           11150
+                                                                           11151
+                                                                           11152
+                                                                           11153
+                                                                           11154
+East Asian Langs & Lits       CHNS    112   Elementary Modern Chinese for  11155
+(EALL)                                      Heritage Speakers              11156
+East Asian Langs & Lits       CHNS    130   Intermediate Modern Chinese I  11157
+(EALL)                                                                     11160
+                                                                           11161
+                                                                           11162
+                                                                           11167
+East Asian Langs & Lits       CHNS    132   Intermediate Modern Chinese    11174
+(EALL)                                      for Heritage Speakers          11175
+                                                                           11176
+                                                                           11177
+East Asian Langs & Lits       CHNS    150   Advanced Modern Chinese I      11178
+(EALL)                                                                     11179
+                                                                           11180
+                                                                           11181
+East Asian Langs & Lits       CHNS    152   Advanced Modern Chinese for    11182
+(EALL)                                      Heritage Speakers              11186
+                                                                           11187
+East Asian Langs & Lits       CHNS    156   Advanced Modern Chinese        11188
+(EALL)                                      through Film for Heritage           
+                                            Speakers                            
+East Asian Langs & Lits       CHNS    158   Advanced Modern Chinese III    11189
+(EALL)                                                                     11190
+East Asian Langs & Lits       CHNS    162   Advanced Modern Chinese V      11191
+(EALL)                                                                          
+East Asian Langs & Lits       CHNS    164   Chinese for Reading            11198
+(EALL)                                      Contemporary Fiction           11199
+East Asian Langs & Lits       CHNS    166   Chinese for Current Affairs    11201
+(EALL)                                                                     11202
+East Asian Langs & Lits       CHNS    168   Chinese for Global Enterprises 11204
+(EALL)                                                                          
+East Asian Langs & Lits       CHNS    170   Introduction to Literary       11509
+(EALL)                                      Chinese I                           
+East Asian Langs & Lits       CHNS    172   Chinese for Scholarly          11205
+(EALL)                                      Conversation                        
+East Asian Langs & Lits       EALL    241   Chinese and Japanese Christian 16106
+(EALL)                                      Literature TR                       
+East Asian Langs & Lits       EALL    471   Independent Tutorial           11938
+(EALL)                                                                          
+East Asian Langs & Lits       EALL    491   Senior Essay                   11939
+(EALL)                                                                          
+East Asian Langs & Lits       EALL    541   Chinese and Japanese Christian 16105
+(EALL)                                      Literature                          
+East Asian Langs & Lits       JAPN    110   Elementary Japanese I          11278
+(EALL)                                                                     11279
+                                                                           11280
+                                                                           11281
+                                                                           11282
+                                                                           11283
+East Asian Langs & Lits       JAPN    130   Intermediate Japanese I        11284
+(EALL)                                                                     11285
+                                                                           11286
+East Asian Langs & Lits       JAPN    150   Advanced Japanese I            11287
+(EALL)                                                                     11288
+East Asian Langs & Lits       JAPN    156   Advanced Japanese III          11289
+(EALL)                                                                          
+East Asian Langs & Lits       JAPN    170   Introduction to Literary       14008
+(EALL)                                      Japanese                            
+East Asian Langs & Lits       KREN    110   Elementary Korean I            11336
+(EALL)                                                                     11342
+                                                                           11343
+                                                                           11344
+                                                                           11345
+East Asian Langs & Lits       KREN    130   Intermediate Korean I          11347
+(EALL)                                                                     11348
+                                                                           13995
+East Asian Langs & Lits       KREN    132   Intermediate Korean for        11349
+(EALL)                                      Advanced Learners I                 
+East Asian Langs & Lits       KREN    150   Advanced Korean I: Korean      11350
+(EALL)                                      Language and Culture through        
+                                            K-Pop Music                         
+East Asian Langs & Lits       KREN    152   Advanced Korean for Advanced   11352
+(EALL)                                      Learners                       11354
+East Asian Studies (EAST)     EAST    119   Introduction to the History of 10472
+                                            Art: Asian Art and Culture          
+East Asian Studies (EAST)     EAST    310   The Rise of China              11783
+East Asian Studies (EAST)     EAST    313   Contemporary Japan and the     12195
+                                            Ghosts of Modernity                 
+East Asian Studies (EAST)     EAST    491   Senior Research Project        12973
+East Asian Studies (EAST)     EAST    515   Culture, History, Power, and   11277
+                                            Representation                      
+East Asian Studies (EAST)     EAST    910   Independent Study              12974
+Ecology & Evolutionary        E&EB    106   Biology of Malaria, Lyme, and  12365
+Biology (E&EB)                              Other Vector-Borne Diseases         
+Ecology & Evolutionary        E&EB    210   Introduction to Statistics:    11185
+Biology (E&EB)                              Life Sciences                       
+Ecology & Evolutionary        E&EB    510   Introduction to Statistics:    11211
+Biology (E&EB)                              Life Sciences                       
+Ecology & Evolutionary        E&EB    551   Laboratory for Biology of      11477
+Biology (E&EB)                              Terrestrial Arthropods              
+Ecology & Evolutionary        E&EB    717   Structuralism and              11480
+Biology (E&EB)                              Macroevolution                      
+Ecology & Evolutionary        E&EB    901   Research Rotation I            11474
+Biology (E&EB)                                                                  
+Ecology & Evolutionary        E&EB    251L  Laboratory for Biology of      11138
+Biology (E&EB)                              Terrestrial Arthropods              
+Economics (ECON)              ECON    108   Quantitative Foundations of    11613
+                                            Microeconomics                      
+Economics (ECON)              ECON    110   An Introduction to             11614
+                                            Microeconomic Analysis         11634
+                                                                           11635
+                                                                           11636
+Economics (ECON)              ECON    111   An Introduction to             11637
+                                            Macroeconomic Analysis              
+Economics (ECON)              ECON    115   Introductory Microeconomics    11615
+Economics (ECON)              ECON    116   Introductory Macroeconomics    12305
+Economics (ECON)              ECON    117   Introduction to Data Analysis  11620
+                                            and Econometrics                    
+Economics (ECON)              ECON    121   Intermediate Microeconomics    11621
+Economics (ECON)              ECON    122   Intermediate Macroeconomics    11627
+Economics (ECON)              ECON    123   Intermediate Data Analysis and 11638
+                                            Econometrics                        
+Economics (ECON)              ECON    125   Microeconomic Theory           11639
+Economics (ECON)              ECON    135   Introduction to Probability    11641
+                                            and Statistics                      
+Economics (ECON)              ECON    159   Game Theory                    12010
+Economics (ECON)              ECON    170   Health Economics and Public    11642
+                                            Policy                              
+Economics (ECON)              ECON    185   Global Economy                 11763
+Economics (ECON)              ECON    212   Introduction to Political      12013
+                                            Economy                             
+Economics (ECON)              ECON    251   Financial Economics            11646
+Economics (ECON)              ECON    331   The Economics of Energy and    11652
+                                            Climate Change                      
+Economics (ECON)              ECON    411   Economics of Uncertainty and   11674
+                                            Information                         
+Economics (ECON)              ECON    412   International Environmental    11675
+                                            Economics                           
+Economics (ECON)              ECON    414   Economic Models of New         11676
+                                            Technology                          
+Economics (ECON)              ECON    419   Financial Time Series          11678
+                                            Econometrics                        
+Economics (ECON)              ECON    451   Economics of Blockchains       11746
+Economics (ECON)              ECON    491   The Senior Essay               11695
+Economics (ECON)              ECON    510   General Economic Theory:       11686
+                                            Macroeconomics                      
+Economics (ECON)              ECON    791   Theories of Distributive       14537
+                                            Justice: Formal Models of           
+                                            Political Theory                    
+Education Studies (EDST)      EDST    110   Foundations in Education       10165
+                                            Studies                             
+Education Studies (EDST)      EDST    125   Child Development              12291
+Education Studies (EDST)      EDST    140   Developmental Psychology       11948
+Education Studies (EDST)      EDST    162   Methods in Quantitative        11744
+                                            Sociology                           
+Education Studies (EDST)      EDST    211   Latinx Communities and         12548
+                                            Education in the United States      
+Education Studies (EDST)      EDST    241   Disability Studies and Special 13580
+                                            Education: Science, Policy and      
+                                            Practice                            
+Electrical Engineering (EENG) EENG    471   Senior Advanced Special        13714
+                                            Projects                            
+Engineering & Applied Science ENAS    118   Introduction to Engineering,   12657
+(ENAS)                                      Innovation, and Design              
+Engineering & Applied Science ENAS    123   You, Your Planet, and A        12830
+(ENAS)                                      Sustainable Future                  
+Engineering & Applied Science ENAS    130   Introduction to Computing for  12654
+(ENAS)                                      Engineers and Scientists            
+Engineering & Applied Science ENAS    151   Multivariable Calculus for     11490
+(ENAS)                                      Engineers                           
+Engineering & Applied Science ENAS    194   Ordinary and Partial           11493
+(ENAS)                                      Differential Equations with         
+                                            Applications                        
+Engineering & Applied Science ENAS    510   Physical and Chemical Basis of 10169
+(ENAS)                                      Bioimaging and Biosensing           
+Engineering & Applied Science ENAS    518   Quantitative Approaches in     11082
+(ENAS)                                      Biophysics and Biochemistry         
+Engineering & Applied Science ENAS    521   Classical and Statistical      11867
+(ENAS)                                      Thermodynamics                      
+Engineering & Applied Science ENAS    615   Synthesis of Nanomaterials     11870
+(ENAS)                                                                          
+Engineering & Applied Science ENAS    641   Biological Processes in        11838
+(ENAS)                                      Environmental Engineering           
+Engineering & Applied Science ENAS    711   BioMEMS & Biomedical           10176
+(ENAS)                                      Microdevices                        
+Engineering & Applied Science ENAS    912   Biomedical Image Processing    10178
+(ENAS)                                      and Analysis                        
+Engineering & Applied Science ENAS    991   Integrated Workshop            12621
+(ENAS)                                                                          
+English Language & Literature ENGL    114   Writing Seminars               10183
+(ENGL)                                                                     11502
+                                                                           11503
+                                                                           11504
+                                                                           11506
+                                                                           11507
+                                                                           11508
+                                                                           11510
+                                                                           11511
+                                                                           11512
+                                                                           11513
+                                                                           11515
+                                                                           11516
+                                                                           11517
+                                                                           11520
+                                                                           11521
+                                                                           11522
+                                                                           11523
+                                                                           11525
+                                                                           11526
+                                                                           11527
+                                                                           11528
+                                                                           11529
+                                                                           11530
+                                                                           11531
+                                                                           11532
+                                                                           11533
+                                                                           11534
+                                                                           11535
+                                                                           13961
+                                                                           14273
+English Language & Literature ENGL    115   Literature Seminars            10184
+(ENGL)                                                                     11536
+                                                                           11537
+                                                                           11538
+English Language & Literature ENGL    120   Reading and Writing the Modern 10185
+(ENGL)                                      Essay                          11539
+                                                                           11540
+                                                                           11541
+                                                                           11543
+                                                                           11544
+                                                                           11545
+                                                                           11546
+                                                                           11547
+                                                                           11548
+                                                                           11549
+                                                                           11550
+                                                                           11551
+                                                                           11552
+                                                                           15812
+English Language & Literature ENGL    123   Introduction to Creative       10187
+(ENGL)                                      Writing                        10188
+                                                                           10189
+                                                                           10190
+English Language & Literature ENGL    125   Readings in English Poetry I   10191
+(ENGL)                                                                     11052
+English Language & Literature ENGL    126   Readings in English Poetry II  10192
+(ENGL)                                                                     11829
+                                                                           11830
+English Language & Literature ENGL    127   Readings in American           10193
+(ENGL)                                      Literature                     11832
+                                                                           11833
+                                                                           11834
+English Language & Literature ENGL    128   Readings in Comparative World  10194
+(ENGL)                                      English Literatures            11835
+English Language & Literature ENGL    129   Tragedy in the European        10195
+(ENGL)                                      Literary Tradition                  
+English Language & Literature ENGL    130   Epic in the European Literary  10199
+(ENGL)                                      Tradition                           
+English Language & Literature ENGL    150   Old English                    10201
+(ENGL)                                                                          
+English Language & Literature ENGL    183   Poetry since 1950              10202
+(ENGL)                                                                          
+English Language & Literature ENGL    187   Love and Hate in the American  10203
+(ENGL)                                      South                               
+English Language & Literature ENGL    189   Literature and Social Justice  10204
+(ENGL)                                                                          
+English Language & Literature ENGL    212   Interpretations: Emily         13482
+(ENGL)                                      Dickinson                           
+English Language & Literature ENGL    218   Seventeenth-Century English    14860
+(ENGL)                                      Literature                          
+English Language & Literature ENGL    251   Experiments in the Novel: The  10206
+(ENGL)                                      Eighteenth Century                  
+English Language & Literature ENGL    315   American Romanticism: Emerson  13861
+(ENGL)                                      to Ashbery                          
+English Language & Literature ENGL    414   Black Life and the Human/Body  10973
+(ENGL)                                                                          
+English Language & Literature ENGL    415   Writing (with) the Self        16084
+(ENGL)                                                                          
+English Language & Literature ENGL    418   Writing About The Environment  12019
+(ENGL)                                                                          
+English Language & Literature ENGL    419   Writing about Contemporary     10215
+(ENGL)                                      Figurative Art                      
+English Language & Literature ENGL    461   The Art and Craft of           10219
+(ENGL)                                      Television Drama                    
+English Language & Literature ENGL    481   Advanced Playwriting           12286
+(ENGL)                                                                          
+English Language & Literature ENGL    491   The Senior Essay II            10229
+(ENGL)                                                                          
+English Language & Literature ENGL    631   Land, Labour, and Slavery from 13230
+(ENGL)                                      Hobbes to Defoe                     
+English Language & Literature ENGL    721   Burke, Revolution, and Empire  13091
+(ENGL)                                                                          
+English Language & Literature ENGL    761   Caribbean Literary and         14847
+(ENGL)                                      Cultural Studies                    
+English Language & Literature ENGL    913   Black Elsewhere(s): Race and   10016
+(ENGL)                                      Space                               
+Environmental Engineering     ENVE    314   Transport Phenomena I          12199
+(ENVE)                                                                          
+Environmental Engineering     ENVE    441   Biological Processes in        12210
+(ENVE)                                      Environmental Engineering           
+Environmental Studies (EVST)  EVST    123   You, Your Planet, and A        12952
+                                            Sustainable Future                  
+Environmental Studies (EVST)  EVST    212   Democracy and Sustainability   11914
+Environmental Studies (EVST)  EVST    261   Minerals and Human Health      13632
+Ethics, Politics, & Economics EP&E    215   Classics of Ethics, Politics,  10253
+(EP&E)                                      and Economics                       
+Ethics, Politics, & Economics EP&E    217   Classics of EP&E–Intellectual  10975
+(EP&E)                                      Origins of Liberalism and           
+                                            Conservatism                        
+Ethics, Politics, & Economics EP&E    241   Religion and Politics in the   11981
+(EP&E)                                      World                               
+Ethics, Politics, & Economics EP&E    312   Moral Choices in Politics      10255
+(EP&E)                                                                          
+Ethics, Politics, & Economics EP&E    313   Economic Analysis of Law       10256
+(EP&E)                                                                          
+Ethics, Politics, & Economics EP&E    317   Nelson and Winnie Mandela      11933
+(EP&E)                                                                          
+Ethics, Politics, & Economics EP&E    471   Directed Reading and Research  10258
+(EP&E)                                                                          
+Ethics, Politics, & Economics EP&E    491   The Senior Essay               10259
+(EP&E)                                                                          
+Ethnicity, Race, & Migration  ER&M    81    Race and Place in British New  10654
+(ER&M)                                      Wave, K-Pop, and Beyond             
+Ethnicity, Race, & Migration  ER&M    219   Jewish History and Thought to  10422
+(ER&M)                                      Early Modern Times                  
+Ethnicity, Race, & Migration  ER&M    241   The Corporation                11262
+(ER&M)                                                                          
+Ethnicity, Race, & Migration  ER&M    291   Caribbean Diasporic Literature 13247
+(ER&M)                                                                          
+Ethnicity, Race, & Migration  ER&M    312   Technology, Race and Gender    13937
+(ER&M)                                                                          
+Ethnicity, Race, & Migration  ER&M    318   Race as Spectacle              10269
+(ER&M)                                                                          
+Ethnicity, Race, & Migration  ER&M    381   Space, Place, and Landscape    14694
+(ER&M)                                                                          
+Ethnicity, Race, & Migration  ER&M    401   Writer/Rioter: Public Writing  10769
+(ER&M)                                      in the 21st Century            15917
+Ethnicity, Race, & Migration  ER&M    412   Native American Mental Health  10272
+(ER&M)                                                                          
+Ethnicity, Race, & Migration  ER&M    471   Individual Reading and         12166
+(ER&M)                                      Research for Juniors and            
+                                            Seniors                             
+Ethnicity, Race, & Migration  ER&M    491   The Senior Colloquium:         10274
+(ER&M)                                      Theoretical and Methodological 10275
+                                            Issues                              
+Ethnicity, Race, & Migration  URBN    318   Informal Cities                16045
+(ER&M)                                                                          
+Experimental Pathology (EXPA) PATH    681   Advanced Topics in Cancer      10744
+                                            Biology                             
+Film & Media Studies (FILM)   FILM    150   Introduction to Film Studies   10286
+Film & Media Studies (FILM)   FILM    161   Introductory Film Writing and  11433
+                                            Directing                           
+Film & Media Studies (FILM)   FILM    162   Introductory Documentary       11425
+                                            Filmmaking                          
+Film & Media Studies (FILM)   FILM    341   Weird Greek Wave Cinema        12441
+Film & Media Studies (FILM)   FILM    351   Documentary, Fiction,          10289
+                                            Docufiction                         
+Film & Media Studies (FILM)   FILM    471   Independent Directed Study     10291
+Film & Media Studies (FILM)   FILM    491   The Senior Essay               10293
+Film & Media Studies (FILM)   FILM    617   Psychoanalysis: Key Conceptual 11840
+                                            Differences between Freud and       
+                                            Lacan                               
+Film & Media Studies (FILM)   FILM    901   Individual Research            10307
+French (FREN)                 FREN    110   Elementary and Intermediate    10313
+                                            French I                       10314
+                                                                           10315
+                                                                           10316
+                                                                           10317
+                                                                           11471
+French (FREN)                 FREN    121   Intermediate French            10318
+                                                                           10319
+French (FREN)                 FREN    125   Intensive Elementary French    10320
+French (FREN)                 FREN    130   Intermediate and Advanced      10831
+                                            French I                       10832
+                                                                           10833
+                                                                           10834
+                                                                           11472
+French (FREN)                 FREN    140   Intermediate and Advanced      10835
+                                            French II                      10836
+                                                                           10837
+                                                                           10838
+French (FREN)                 FREN    150   Advanced Language Practice     10839
+                                                                           10840
+                                                                           10841
+                                                                           15270
+French (FREN)                 FREN    160   Advanced Conversation Through  10842
+                                            Culture, Film, and Media       10843
+French (FREN)                 FREN    170   Introduction to Literatures in 10844
+                                            French                              
+French (FREN)                 FREN    183   Medical French: Conversation   10845
+                                            and Culture                         
+French (FREN)                 FREN    191   Translation                    10846
+French (FREN)                 FREN    481   Racial Republic: African       13254
+                                            Diasporic Literature and            
+                                            Culture in Postcolonial France      
+French (FREN)                 FREN    491   The Senior Essay               10856
+French (FREN)                 FREN    561   Caribbean Literary and         14848
+                                            Cultural Studies                    
+Genetics (GENE)               GENE    911   First Laboratory Rotation      13333
+Genetics (GENE)               GENE    912   Second Laboratory Rotation     13336
+Germanic Langs & Lits (GMAN)  DUTC    110   Elementary Dutch I             13338
+Germanic Langs & Lits (GMAN)  DUTC    130   Intermediate Dutch I           13339
+Germanic Langs & Lits (GMAN)  DUTC    150   Advanced Dutch                 13340
+Germanic Langs & Lits (GMAN)  GMAN    110   Elementary German I            10327
+                                                                           10328
+                                                                           10329
+                                                                           10330
+Germanic Langs & Lits (GMAN)  GMAN    120   Elementary German II           10331
+Germanic Langs & Lits (GMAN)  GMAN    130   Intermediate German I          10332
+                                                                           10333
+Germanic Langs & Lits (GMAN)  GMAN    140   Intermediate German II         10334
+Germanic Langs & Lits (GMAN)  GMAN    152   Advanced German, Contemporary  10335
+                                            Germany                             
+Germanic Langs & Lits (GMAN)  GMAN    162   Pre-1945 German Culture and    10336
+                                            History                             
+Germanic Langs & Lits (GMAN)  GMAN    178   Genre and Identity in German   13796
+                                            Literature                          
+Germanic Langs & Lits (GMAN)  GMAN    211   Marx, Nietzsche, Freud         15953
+Germanic Langs & Lits (GMAN)  GMAN    214   Mad Poets                      10851
+Germanic Langs & Lits (GMAN)  GMAN    391   The Bible in German-Jewish     13975
+                                            Modernist Literature                
+Germanic Langs & Lits (GMAN)  GMAN    617   Psychoanalysis: Key Conceptual 11842
+                                            Differences between Freud and       
+                                            Lacan                               
+Germanic Langs & Lits (GMAN)  GMAN    618   Adapting to the Stage          14976
+Germanic Langs & Lits (GMAN)  GMAN    641   The Bible in German-Jewish     15863
+                                            Modernist Literature                
+Germanic Langs & Lits (GMAN)  SWED    110   Elementary Swedish I           14036
+Germanic Langs & Lits (GMAN)  YDSH    110   Elementary Yiddish I           11852
+Germanic Langs & Lits (GMAN)  YDSH    130   Intermediate Yiddish I         13878
+Global Affairs Program (GLBL) GLBL    101   Gateway to Global Affairs      10338
+Global Affairs Program (GLBL) GLBL    121   Applied Quantitative Analysis  10339
+Global Affairs Program (GLBL) GLBL    159   Game Theory                    12011
+Global Affairs Program (GLBL) GLBL    201   Origins of U.S. Global Power   10423
+Global Affairs Program (GLBL) GLBL    215   Populism                       12482
+Global Affairs Program (GLBL) GLBL    281   Military History of the West   10418
+                                            since 1500                          
+Global Affairs Program (GLBL) GLBL    310   International Finance          11672
+Global Affairs Program (GLBL) GLBL    311   Banking Crises and Financial   10343
+                                            Stability                           
+Global Affairs Program (GLBL) GLBL    313   The United Nations on the      14156
+                                            Ground                              
+Graduate School (GSAS)        ELP     514   Speaking Fluently 2            16133
+                                                                           16134
+Graduate School (GSAS)        ELP     515   Teaching in the American       16135
+                                            Classroom                      16136
+                                                                           16137
+                                                                           16138
+Health Studies (HLTH)         HLTH    81    Current Issues in Medicine and 10351
+                                            Public Health                       
+Health Studies (HLTH)         HLTH    140   Health of the Public           10747
+Health Studies (HLTH)         HLTH    155   Biology of Malaria, Lyme, and  12366
+                                            Other Vector-Borne Diseases         
+Hellenic Studies (HELN)       MGRK    110   Elementary Modern Greek I      12438
+Hellenic Studies (HELN)       MGRK    130   Intermediate Modern Greek I    12439
+Hellenic Studies (HELN)       MGRK    216   Dionysus in Modernity          15870
+Hist of Science, Hist of Med  HSHM    321   Cultures of Western Medicine   10019
+(HSHM)                                                                          
+Hist of Science, Hist of Med  HSHM    410   Meanings of Life               12272
+(HSHM)                                                                          
+Hist of Science, Hist of Med  HSHM    414   Ancient Medicine and Disease   13438
+(HSHM)                                                                          
+Hist of Science, Hist of Med  HSHM    419   Madness and Decolonization     10021
+(HSHM)                                                                          
+Hist of Science, Hist of Med  HSHM    491   Yearlong Senior Project        10033
+(HSHM)                                                                          
+Hist of Science, Hist of Med  HSHM    691   Topics in the Environmental    13882
+(HSHM)                                      Humanities                          
+Hist of Science, Hist of Med  HSHM    717   Early Modern Studies Practicum 13514
+(HSHM)                                                                          
+History (HIST)                HIST    14    The Roots of the American      14403
+                                            Revolution                          
+History (HIST)                HIST    31    What Makes An American?: U.S.  10355
+                                            National Identity, Founding to 10356
+                                            Present                             
+History (HIST)                HIST    111   The Revolutionary              10360
+                                            Transformation of America,          
+                                            1492-1865                           
+History (HIST)                HIST    114   History of Reproductive Health 10050
+                                            and Medicine in the U.S.            
+History (HIST)                HIST    128   Origins of U.S. Global Power   10364
+History (HIST)                HIST    210   Early Middle Ages, 284-1000    10369
+History (HIST)                HIST    212   The Ancient Economy            10157
+History (HIST)                HIST    219   Jewish History and Thought to  10370
+                                            Early Modern Times                  
+History (HIST)                HIST    221   Military History of the West   10371
+                                            since 1500                          
+History (HIST)                HIST    271   European Intellectual History  10381
+                                            since Nietzsche                     
+History (HIST)                HIST    321   China from Present to Past     10387
+History (HIST)                HIST    418   The History of Money           11435
+History (HIST)                HIST    516   Greek Papyrology               12970
+History (HIST)                HIST    811   Slavery, Resistance, and       14147
+                                            Abolition in Brazil                 
+History (HIST)                HIST    931   Problems in the History of     10060
+                                            Science                             
+History (HIST)                HIST    104J  Climate and Environment in     10359
+                                            America, 1500-1870                  
+History (HIST)                HIST    108J  Infrastructure and Ecosystems  13417
+                                            in Modern US History: Toward a      
+                                            Green New Deal                      
+History (HIST)                HIST    116J  A History of American          10829
+                                            Citizenship: Membership and         
+                                            Exclusion; Rights and               
+                                            Belonging in U.S. History           
+History (HIST)                HIST    130J  Indians and the Spanish        10067
+                                            Borderlands                         
+History (HIST)                HIST    135J  The Age of Hamilton and        10830
+                                            Jefferson                           
+History (HIST)                HIST    136J  Liberalism and Conservatism in 10365
+                                            the Modern United States       10366
+History (HIST)                HIST    137J  From the Voting Rights Act to  10008
+                                            #blacklivesmatter                   
+History (HIST)                HIST    138J  The History Wars: Problems in  13414
+                                            Public Memory                       
+History (HIST)                HIST    150J  Healthcare for the Urban Poor  10046
+History (HIST)                HIST    163J  Madness and Decolonization     10045
+History (HIST)                HIST    164J  Foxes, Hedgehogs, and History  10367
+History (HIST)                HIST    167J  Congress in the Light of       12350
+                                            History                             
+History (HIST)                HIST    168J  Quebec and Canada from 1791 to 10368
+                                            the Present                         
+History (HIST)                HIST    177J  American Medicine and the Cold 10044
+                                            War                                 
+History (HIST)                HIST    183J  Race, Relationality, and       13421
+                                            Relationships in 20th Century       
+                                            South Asian America                 
+History (HIST)                HIST    190J  Technology in American         10036
+                                            Medicine from Leeches to            
+                                            Surgical Robots                     
+History (HIST)                HIST    201J  Religions of the Roman Empire  13460
+History (HIST)                HIST    291J  Electromagnetism: Physics,     13429
+                                            Magic, Religion                     
+History (HIST)                HIST    341J  The Novel and the Nation:      11873
+                                            Reading India in Vikram Seth’s      
+                                            <i>A Suitable Boy</i>               
+History (HIST)                HIST    391J  Pandemics in Africa: From the  12940
+                                            Spanish Influenza to Covid-19       
+History (HIST)                HIST    410J  Money and Its Crimes: Forgers, 13453
+                                            Schemers, and Conmen                
+History of Art (HSAR)         HSAR    119   Introduction to the History of 10462
+                                            Art: Asian Art and Culture          
+History of Art (HSAR)         HSAR    219   American Architecture and      11017
+                                            Urbanism                            
+History of Art (HSAR)         HSAR    251   Writers and Artists in Paris,  11690
+                                            1780–1914                           
+History of Art (HSAR)         HSAR    401   Critical Approaches to Art     10467
+                                            History                             
+History of Art (HSAR)         HSAR    419   Jews and Photography           15235
+History of Art (HSAR)         HSAR    841   Topics in the Environmental    13881
+                                            Humanities                          
+Humanities (HUMS)             HUMS    21    Six Pretty Good Heroes         15805
+Humanities (HUMS)             HUMS    31    Bilingual Imaginaries:         15113
+                                            Thinking, Writing, and Living       
+                                            across Languages                    
+Humanities (HUMS)             HUMS    115   Purposes of College Education  10759
+Humanities (HUMS)             HUMS    127   Tragedy in the European        10196
+                                            Literary Tradition                  
+Humanities (HUMS)             HUMS    128   From Gilgamesh to Persepolis:  12051
+                                            Introduction to Near Eastern        
+                                            Literatures                         
+Humanities (HUMS)             HUMS    139   Western Philosophy in Four     10542
+                                            Operas 1600-1900                    
+Humanities (HUMS)             HUMS    180   Dante in Translation           10508
+Humanities (HUMS)             HUMS    185   Writing about Contemporary     10232
+                                            Figurative Art                      
+Humanities (HUMS)             HUMS    193   Screening the Past             11618
+Humanities (HUMS)             HUMS    195   Thinking Literature in German  13998
+                                            Modernism                           
+Humanities (HUMS)             HUMS    199   American Romanticism: Emerson  13802
+                                            to Ashbery                          
+Humanities (HUMS)             HUMS    211   Fate and Chance in Art and     12249
+                                            Experience                          
+Humanities (HUMS)             HUMS    261   The Making of a Political      13354
+                                            Novel: Acts of Censorship and       
+                                            the Novel                           
+Humanities (HUMS)             HUMS    314   Marx, Nietzsche, Freud         16085
+Humanities (HUMS)             HUMS    331   Adapting to the Stage          15938
+Humanities (HUMS)             HUMS    381   Jazz in America 1900-1960      11791
+Humanities (HUMS)             HUMS    391   The Bible in German-Jewish     14000
+                                            Modernist Literature                
+Humanities (HUMS)             HUMS    471   Special Studies in the         13709
+                                            Humanities                          
+Humanities (HUMS)             HUMS    491   The Senior Essay               13710
+Immunobiology (IBIO)          IBIO    611   Research Rotation 1            15084
+Immunobiology (IBIO)          IBIO    612   Research Rotation 2            15085
+Interdpt Neuroscience Pgm     INP     510   Structural and Functional      14853
+(INP)                                       Organization of the Human           
+                                            Nervous System                      
+Interdpt Neuroscience Pgm     INP     511   Lab Rotation for First-Year    10479
+(INP)                                       Students                            
+Interdpt Neuroscience Pgm     INP     513   Second-Year Thesis Research    10480
+(INP)                                                                           
+Interdpt Neuroscience Pgm     INP     610   Advanced Topics in             16068
+(INP)                                       Neurogenomics                       
+Interdpt Neuroscience Pgm     INP     701   Principles of Neuroscience     10481
+(INP)                                                                           
+Investigative Medicine (IMED) IMED    661   Methods in Clinical Research,  10488
+                                            Part II                             
+Italian Language & Literature ITAL    110   Elementary Italian I           10490
+(ITAL)                                                                     10492
+                                                                           10493
+                                                                           10494
+                                                                           10495
+                                                                           10496
+Italian Language & Literature ITAL    130   Intermediate Italian I         10497
+(ITAL)                                                                     10498
+                                                                           10499
+                                                                           10500
+                                                                           11876
+Italian Language & Literature ITAL    159   History and Culture of Naples  11879
+(ITAL)                                                                          
+Italian Language & Literature ITAL    162   Introduction to Italian        10502
+(ITAL)                                      Literature: From the Duecento       
+                                            to the Renaissance                  
+Italian Language & Literature ITAL    310   Dante in Translation           10503
+(ITAL)                                                                          
+Italian Language & Literature ITAL    315   The Catholic Intellectual      10407
+(ITAL)                                      Tradition                           
+Italian Language & Literature ITAL    471   Special Studies in Italian     10505
+(ITAL)                                      Literature                          
+Italian Language & Literature ITAL    491   The Senior Essay               10506
+(ITAL)                                                                          
+Italian Language & Literature ITAL    691   Directed Reading               14072
+(ITAL)                                                                          
+Judaic Studies (JDST)         JDST    127   Christians in Early Jewish     13836
+                                            Sources                             
+Judaic Studies (JDST)         JDST    361   The Yiddish Classics and       13630
+                                            Modernity                           
+Judaic Studies (JDST)         JDST    491   The Senior Essay               14177
+Judaic Studies (JDST)         JDST    761   Jewish History and Thought to  10455
+                                            Early Modern Times                  
+Latin American Studies (LAST) LAST    100   Introduction to Latin American 12595
+                                            Studies: History, Culture and       
+                                            Society                             
+Latin American Studies (LAST) LAST    214   Contesting Injustice           12094
+Latin American Studies (LAST) LAST    251   Political Power and Inequality 12116
+                                            in Latin America                    
+Latin American Studies (LAST) LAST    261   Studies in Spanish Literature  10711
+                                            I                                   
+Latin American Studies (LAST) LAST    431   Latin American Languages of    11892
+                                            Liberation: The Long Sixties        
+Latin American Studies (LAST) LAST    491   The Senior Essay               10795
+Linguistics (LING)            ASL     110   American Sign Language I       12192
+                                                                           12193
+                                                                           12252
+                                                                           12253
+                                                                           12254
+                                                                           12255
+                                                                           12256
+                                                                           13886
+Linguistics (LING)            ASL     130   American Sign Language III     12259
+                                                                           12260
+                                                                           12261
+                                                                           12262
+Linguistics (LING)            LING    110   Language: Introduction to      12174
+                                            Linguistics                         
+Linguistics (LING)            LING    115   Introductory Sanskrit I        12466
+Linguistics (LING)            LING    119   How to Create a Language:      15140
+                                            Constructed Language and            
+                                            Natural Language                    
+Linguistics (LING)            LING    138   Intermediate Sanskrit I        12468
+Linguistics (LING)            LING    150   Old English                    10245
+Linguistics (LING)            LING    212   Linguistic Change              12186
+Linguistics (LING)            LING    217   Language and Mind              12183
+Linguistics (LING)            LING    261   Current Trends in Syntax:      12177
+                                            Agree                               
+Linguistics (LING)            LING    491   The Senior Essay               12172
+Linguistics (LING)            LING    510   Introduction to Linguistics    13026
+Linguistics (LING)            LING    515   Introductory Sanskrit I        13261
+Linguistics (LING)            LING    519   Perspectives on Grammar        12979
+Linguistics (LING)            LING    612   Linguistic Change              13039
+Linguistics (LING)            LING    617   Language and Mind              13038
+Linguistics (LING)            LING    661   Current Trends in Syntax       13032
+Management (MGMT)             MGMT    521   Workshop: International Trade  14217
+Management (MGMT)             MGMT    721   Modeling Operational Processes 14563
+Management (MGMT)             MGMT    731   Organizations and the          14675
+                                            Environment                         
+Management (MGMT)             MGMT    781   Workshop                       14571
+                                                                           14572
+                                                                           14573
+                                                                           14574
+                                                                           14575
+Management (MGMT)             MGMT    791   Independent Reading and        14581
+                                            Research                            
+Mathematics (MATH)            MATH    108   Estimation and Error           11251
+Mathematics (MATH)            MATH    110   Introduction to Functions and  10803
+                                            Calculus I                     10804
+                                                                           10805
+                                                                           15885
+Mathematics (MATH)            MATH    112   Calculus of Functions of One   10806
+                                            Variable I                     10807
+                                                                           10808
+                                                                           10809
+                                                                           10810
+                                                                           10811
+                                                                           15886
+Mathematics (MATH)            MATH    115   Calculus of Functions of One   10812
+                                            Variable II                    10813
+                                                                           10814
+                                                                           10815
+                                                                           10816
+                                                                           10817
+                                                                           10818
+                                                                           10819
+                                                                           15888
+                                                                           15889
+                                                                           15890
+Mathematics (MATH)            MATH    116   Mathematical Models in the     11253
+                                            Biosciences I: Calculus        11254
+                                            Techniques                          
+Mathematics (MATH)            MATH    118   Introduction to Functions of   11298
+                                            Several Variables                   
+Mathematics (MATH)            MATH    120   Calculus of Functions of       10820
+                                            Several Variables              10821
+                                                                           10822
+                                                                           10823
+                                                                           10824
+                                                                           10825
+                                                                           10826
+                                                                           10827
+                                                                           15891
+                                                                           15892
+Mathematics (MATH)            MATH    241   Probability Theory             11227
+Mathematics (MATH)            MATH    310   Introduction to Complex        11326
+                                            Analysis                            
+Mathematics (MATH)            MATH    621   Introduction to Ergodic Theory 15383
+                                            and Dynamical Systems               
+Mathematics (MATH)            MATH    701   Topics in Analysis             11554
+Mathematics (MATH)            MATH    718   Enumerative Geometry and       11611
+                                            Integrable Systems                  
+Mathematics (MATH)            MATH    719   Introduction to Anosov         12505
+                                            Subgroups                           
+Mathematics (MATH)            MATH    721   Topics in Homogeneous Dynamics 11617
+Mathematics (MATH)            MATH    991   Ethical Conduct of Research    10895
+Mechanical Engineering (MENG) MENG    185   Mechanical Design              12771
+Mechanical Engineering (MENG) MENG    211   Thermodynamics for Mechanical  12647
+                                            Engineers                           
+Mechanical Engineering (MENG) MENG    361   Mechanical Engineering II:     12594
+                                            Fluid Mechanics                     
+Mechanical Engineering (MENG) MENG    471   Special Projects I             12648
+Microbiology (MBIO)           MBIO    671   Laboratory Rotations           14074
+Microbiology (MBIO)           MBIO    701   Research in Progress           14075
+Modern Middle Eastern Studies MMES    149   Jewish History and Thought to  10420
+(MMES)                                      Early Modern Times                  
+Modern Middle Eastern Studies MMES    156   Israeli Popular Music          11100
+(MMES)                                                                          
+Modern Middle Eastern Studies MMES    159   Conversational Hebrew: Israeli 11103
+(MMES)                                      Media                               
+Modern Middle Eastern Studies MMES    168   Contemporary Israeli Society   11113
+(MMES)                                      in Film                             
+Modern Middle Eastern Studies MMES    176   Cinema of Iran, Past and       11558
+(MMES)                                      Present                             
+Modern Middle Eastern Studies MMES    201   Classics of the Arabic-Islamic 11295
+(MMES)                                      World                               
+Modern Middle Eastern Studies MMES    391   Islamic Theology and           10594
+(MMES)                                      Philosophy                          
+Modern Middle Eastern Studies MMES    418   The Classics of Modern Hebrew  12450
+(MMES)                                      Literature                          
+Molecular Biophysics &        MB&B    105   Biology, the World, and Us     10961
+Biochem (MB&B)                                                                  
+Molecular Biophysics &        MB&B    571   Intensive Research for         11063
+Biochem (MB&B)                              B.S./M.S. Candidates                
+Molecular Biophysics &        MB&B    591   Integrated Workshop            12622
+Biochem (MB&B)                                                                  
+Molecular Biophysics &        MB&B    251L  Laboratory for Biochemistry    11039
+Biochem (MB&B)                                                             11044
+Molecular, Cellular & Dev     MCDB    105   Biology, the World, and Us     10960
+Biol (MCDB)                                                                     
+Molecular, Cellular & Dev     MCDB    106   Biology of Malaria, Lyme, and  12364
+Biol (MCDB)                                 Other Vector-Borne Diseases         
+Molecular, Cellular & Dev     MCDB    310   Physiological Systems          10141
+Biol (MCDB)                                                                     
+Molecular, Cellular & Dev     MCDB    591   Integrated Workshop            12623
+Biol (MCDB)                                                                     
+Molecular, Cellular & Dev     MCDB    631   RNAseq Analysis/Intro to       15985
+Biol (MCDB)                                 Bioinformatics                      
+Molecular, Cellular & Dev     MCDB    911   First Laboratory Rotation      13331
+Biol (MCDB)                                                                     
+Molecular, Cellular & Dev     MCDB    912   Second Laboratory Rotation     13334
+Biol (MCDB)                                                                     
+Molecular, Cellular & Dev     MCDB    221L  Laboratory for Foundations of  10964
+Biol (MCDB)                                 Biology                        10965
+                                                                           10966
+                                                                           10967
+Molecular, Cellular & Dev     MCDB    231L  RNAseq Analysis/Intro to       10968
+Biol (MCDB)                                 Bioinformatics                      
+Molecular, Cellular & Dev     MCDB    301L  Laboratory for Biochemistry    11040
+Biol (MCDB)                                                                11045
+Molecular, Cellular & Dev     MCDB    321L  Laboratory for Neurobiology    12083
+Biol (MCDB)                                                                12085
+Music Dept (MUSI)             MUSI    81    Race and Place in British New  10653
+                                            Wave, K-Pop, and Beyond             
+Music Dept (MUSI)             MUSI    110   Elements of Musical Pitch and  10517
+                                            Time                                
+Music Dept (MUSI)             MUSI    115   The Mathematics of Music       10518
+Music Dept (MUSI)             MUSI    137   Western Philosophy in Four     10519
+                                            Operas 1600-1900                    
+Music Dept (MUSI)             MUSI    185   American Musical Theater       10520
+                                            History                             
+Music Dept (MUSI)             MUSI    211   Systematic Theory for Music:   10522
+                                            1800 to the present                 
+Music Dept (MUSI)             MUSI    217   Keyboard Skills for Tonal      11748
+                                            Music                               
+Music Dept (MUSI)             MUSI    218   Aural Skills for Tonal Music   10524
+Music Dept (MUSI)             MUSI    315   Fundamentals of Music          11770
+                                            Technology                          
+Music Dept (MUSI)             MUSI    318   Intermediate Musicianship      10530
+Music Dept (MUSI)             MUSI    351   Music in European Court,       10532
+                                            Church, and Theater, 1600-1800      
+Music Dept (MUSI)             MUSI    416   Advanced Studies in Musical    12658
+                                            Meter                               
+Music Dept (MUSI)             MUSI    516   Advanced Studies in Musical    13644
+                                            Meter                               
+Music Dept (MUSI)             MUSI    611   Music, Ability, Disability     14915
+Music Dept (MUSI)             MUSI    812   Directed Studies:              10544
+                                            Ethnomusicology                     
+Music Dept (MUSI)             MUSI    814   Directed Studies: History of   10545
+                                            Music                               
+Music Dept (MUSI)             MUSI    914   Directed Studies: Theory of    10546
+                                            Music                               
+Naval Science (NAVY)          NAVY    100   Naval Science Laboratory       10548
+Naval Science (NAVY)          NAVY    111   Introduction to Naval Science  10549
+Naval Science (NAVY)          NAVY    212   Seapower and Maritime Affairs  10550
+Naval Science (NAVY)          NAVY    311   Naval Engineering              10551
+Naval Science (NAVY)          NAVY    411   Naval Operations and           10552
+                                            Seamanship                          
+Near Eastern Languages &      AKKD    110   Elementary Akkadian I          11465
+Civilizations (NELC)                                                            
+Near Eastern Languages &      AKKD    130   Intermediate Akkadian I        11821
+Civilizations (NELC)                                                            
+Near Eastern Languages &      ARBC    110   Elementary Modern Standard     11450
+Civilizations (NELC)                        Arabic I                       11451
+                                                                           11452
+                                                                           11454
+Near Eastern Languages &      ARBC    130   Intermediate Modern Standard   11455
+Civilizations (NELC)                        Arabic I                       11456
+Near Eastern Languages &      ARBC    136   Beginning Classical Arabic I   11560
+Civilizations (NELC)                                                            
+Near Eastern Languages &      ARBC    150   Advanced Modern Standard       11457
+Civilizations (NELC)                        Arabic I                            
+Near Eastern Languages &      ARBC    156   Intermediate Classical Arabic  16020
+Civilizations (NELC)                        I                                   
+Near Eastern Languages &      ARBC    158   Advanced Classical Arabic I    13954
+Civilizations (NELC)                                                            
+Near Eastern Languages &      ARBC    173   Tracing the Image of the Arab  11563
+Civilizations (NELC)                        "Other"                             
+Near Eastern Languages &      ARBC    511   Intermediate Classical Arabic  13955
+Civilizations (NELC)                        I                                   
+Near Eastern Languages &      ARBC    561   Graduate Arabic Seminar: Early 12899
+Civilizations (NELC)                        Adab                                
+Near Eastern Languages &      EGYP    110   Introduction to Classical      11723
+Civilizations (NELC)                        Hieroglyphic Egyptian I             
+Near Eastern Languages &      EGYP    131   Intermediate Egyptian I:       11724
+Civilizations (NELC)                        Literary Texts                      
+Near Eastern Languages &      EGYP    137   Gnostic Texts in Coptic        11725
+Civilizations (NELC)                                                            
+Near Eastern Languages &      EGYP    158   Ancient Egyptian Texts of the  11727
+Civilizations (NELC)                        First and Second Intermediate       
+                                            Periods                             
+Near Eastern Languages &      EGYP    401   Ancient Egyptian Scientific    14063
+Civilizations (NELC)                        Texts                               
+Near Eastern Languages &      EGYP    514   Gnostic Texts in Coptic        11730
+Civilizations (NELC)                                                            
+Near Eastern Languages &      HEBR    110   Elementary Modern Hebrew I     11086
+Civilizations (NELC)                                                       11087
+Near Eastern Languages &      HEBR    117   Elementary Biblical Hebrew I   12968
+Civilizations (NELC)                                                            
+Near Eastern Languages &      HEBR    130   Intermediate Modern Hebrew I   11088
+Civilizations (NELC)                                                       11096
+Near Eastern Languages &      HEBR    158   Contemporary Israeli Society   11111
+Civilizations (NELC)                        in Film                             
+Near Eastern Languages &      HEBR    159   Conversational Hebrew: Israeli 11101
+Civilizations (NELC)                        Media                               
+Near Eastern Languages &      HEBR    161   Israeli Popular Music          11098
+Civilizations (NELC)                                                            
+Near Eastern Languages &      HEBR    510   Conversational Hebrew: Israeli 11133
+Civilizations (NELC)                        Media                               
+Near Eastern Languages &      HEBR    511   Elementary Biblical Hebrew I   12969
+Civilizations (NELC)                                                            
+Near Eastern Languages &      HEBR    516   Israeli Popular Music          11132
+Civilizations (NELC)                                                            
+Near Eastern Languages &      NELC    109   The Age of Akhenaton           11718
+Civilizations (NELC)                                                            
+Near Eastern Languages &      NELC    128   From Gilgamesh to Persepolis:  12050
+Civilizations (NELC)                        Introduction to Near Eastern        
+                                            Literatures                         
+Near Eastern Languages &      NELC    156   Classics of the Arabic-Islamic 11292
+Civilizations (NELC)                        World                               
+Near Eastern Languages &      NELC    168   Origins of Writing             12111
+Civilizations (NELC)                                                            
+Near Eastern Languages &      NELC    571   Introduction to the Field of   12179
+Civilizations (NELC)                        Near Eastern Languages &            
+                                            Civilizations                       
+Near Eastern Languages &      NELC    614   Tracing the Image of the Arab  11567
+Civilizations (NELC)                        "Other"                             
+Near Eastern Languages &      OTTM    310   Introduction To Ottoman        11741
+Civilizations (NELC)                        Turkish I                           
+Near Eastern Languages &      OTTM    561   Ottoman Text Reading I         12137
+Civilizations (NELC)                                                            
+Near Eastern Languages &      OTTM    610   Introduction to Ottoman        11742
+Civilizations (NELC)                        Turkish I                           
+Near Eastern Languages &      PERS    110   Elementary Persian I           11467
+Civilizations (NELC)                                                            
+Near Eastern Languages &      PERS    130   Intermediate Persian I         13240
+Civilizations (NELC)                                                            
+Near Eastern Languages &      PERS    132   Persian for Heritage Learners  16189
+Civilizations (NELC)                        I                                   
+Near Eastern Languages &      PERS    161   Cinema of Iran, Past and       11557
+Civilizations (NELC)                        Present                             
+Near Eastern Languages &      PERS    175   Persian for Heritage Learners  16190
+Civilizations (NELC)                                                            
+Near Eastern Languages &      SMTC    513   Elementary Syriac I            10619
+Civilizations (NELC)                                                            
+Near Eastern Languages &      TKSH    110   Elementary Modern Turkish I    11074
+Civilizations (NELC)                                                            
+Near Eastern Languages &      TKSH    130   Intermediate Turkish I         11075
+Civilizations (NELC)                                                            
+Near Eastern Languages &      TKSH    150   Advanced Turkish I             11077
+Civilizations (NELC)                                                            
+Neuroscience (NSCI)           NSCI    160   The Human Brain                11943
+Neuroscience (NSCI)           NSCI    441   Computational Models of Human  11916
+                                            Behavior                            
+Neuroscience (NSCI)           NSCI    321L  Laboratory for Neurobiology    12084
+                                                                           12086
+Pharmacology (PHAR)           PHAR    501   Seminar in Molecular Medicine, 15797
+                                            Pharmacology, and Physiology        
+Philosophy (PHIL)             PHIL    115   First-Order Logic              10554
+Philosophy (PHIL)             PHIL    118   Buddhist Thought: The          11306
+                                            Foundations                         
+Philosophy (PHIL)             PHIL    125   Introduction to Ancient        10555
+                                            Philosophy                          
+Philosophy (PHIL)             PHIL    178   Introduction to Political      10557
+                                            Philosophy                          
+Philosophy (PHIL)             PHIL    281   Infinity                       10559
+Philosophy (PHIL)             PHIL    311   The End of Metaphysics         10591
+                                                                           10592
+Philosophy (PHIL)             PHIL    361   Thought Experiments:           10475
+                                            Connecting Literature,              
+                                            Philosophy and the Natural          
+                                            Sciences                            
+Philosophy (PHIL)             PHIL    412   Marx, Nietzsche, Freud         16087
+Philosophy (PHIL)             PHIL    414   Mind in Modern Philosophy      12054
+Philosophy (PHIL)             PHIL    614   Mind in Modern Philosophy      12061
+Philosophy (PHIL)             PHIL    719   Faith and the Will             10581
+Physics (PHYS)                PHYS    105   Electromagnetism: Physics,     13428
+                                            Magic, Religion                     
+Physics (PHYS)                PHYS    151   Multivariable Calculus for     11492
+                                            Engineers                           
+Physics (PHYS)                PHYS    170   University Physics for the     12400
+                                            Life Sciences                       
+Physics (PHYS)                PHYS    180   University Physics             12401
+                                                                           12402
+Physics (PHYS)                PHYS    301   Introduction to Mathematical   12415
+                                            Methods of Physics                  
+Physics (PHYS)                PHYS    401   Advanced Classical Physics     12418
+                                            from Newton to Einstein             
+Physics (PHYS)                PHYS    410   Classical Mechanics            12419
+Physics (PHYS)                PHYS    412   Relativity                     12915
+Physics (PHYS)                PHYS    441   Quantum Mechanics and Natural  12422
+                                            Phenomena II                        
+Physics (PHYS)                PHYS    471   Independent Projects in        12427
+                                            Physics                             
+Physics (PHYS)                PHYS    515   Topics in Modern Physics       11375
+                                            Research                            
+Physics (PHYS)                PHYS    601   Quantum Information and        11416
+                                            Computation                         
+Physics (PHYS)                PHYS    991   Integrated Workshop            12624
+Physics (PHYS)                PHYS    165L  General Physics Laboratory     12378
+Political Science (PLSC)      PLSC    15    The Politics of Human          12652
+                                            Flourishing: Ancient Political      
+                                            Philosophy                          
+Political Science (PLSC)      PLSC    116   Comparative Politics: States,  12635
+                                            Regimes, and Conflict               
+Political Science (PLSC)      PLSC    130   Nuclear Politics               11965
+Political Science (PLSC)      PLSC    143   Networks in International      15675
+                                            Relations                           
+Political Science (PLSC)      PLSC    161   Studies in Grand Strategy II   12634
+Political Science (PLSC)      PLSC    182   The Politics of International  12855
+                                            Law and Cooperation                 
+Political Science (PLSC)      PLSC    210   Political Preferences and      12375
+                                            American Political Behavior         
+Political Science (PLSC)      PLSC    212   Democracy and Sustainability   11912
+Political Science (PLSC)      PLSC    219   Politics of the Environment    15420
+Political Science (PLSC)      PLSC    291   Justice, Taxes, and Global     10570
+                                            Financial Integrity                 
+Political Science (PLSC)      PLSC    311   Socialism and Democracy        14004
+Political Science (PLSC)      PLSC    318   Lincoln's Statecraft and       13095
+                                            Rhetoric                            
+Political Science (PLSC)      PLSC    410   Political Protests             11955
+Political Science (PLSC)      PLSC    415   Religion and Politics in the   11980
+                                            World                               
+Political Science (PLSC)      PLSC    418   Japanese Politics and Society  13447
+Political Science (PLSC)      PLSC    441   Peacebuilding                  14442
+Political Science (PLSC)      PLSC    471   Individual Reading for Majors  16148
+Political Science (PLSC)      PLSC    491   The Senior Essay               13264
+Political Science (PLSC)      PLSC    510   Introduction to the Study of   12218
+                                            Politics                            
+Political Science (PLSC)      PLSC    518   Introduction to Game Theory    13353
+Political Science (PLSC)      PLSC    581   Socialism and Democracy,       13090
+                                            1820–1940                           
+Political Science (PLSC)      PLSC    731   Nelson and Winnie Mandela      12027
+Political Science (PLSC)      PLSC    810   Political Preferences and      12309
+                                            American Political Behavior         
+Psychology (PSYC)             PSYC    110   Introduction to Psychology     11944
+Psychology (PSYC)             PSYC    125   Child Development              12292
+Psychology (PSYC)             PSYC    130   Introduction to Cognitive      11143
+                                            Science                             
+Psychology (PSYC)             PSYC    140   Developmental Psychology       11947
+Psychology (PSYC)             PSYC    160   The Human Brain                11942
+Psychology (PSYC)             PSYC    312   Native American Mental Health  10278
+Psychology (PSYC)             PSYC    315   The Modern Unconscious         11949
+                                                                           14449
+                                                                           14519
+                                                                           14521
+Psychology (PSYC)             PSYC    317   Language and Mind              12185
+Psychology (PSYC)             PSYC    318   Phonetics I                    12170
+Psychology (PSYC)             PSYC    518   Multivariate Statistics        11999
+Psychology (PSYC)             PSYC    710   Current Work in Social         11960
+                                            Psychology and Personality          
+Psychology (PSYC)             PSYC    731   Research Topics in Cognition   11971
+                                            and Development                     
+Psychology (PSYC)             PSYC    741   Research Topics in Emotion and 11976
+                                            Relationships                       
+Psychology (PSYC)             PSYC    761   Research Topics in             11989
+                                            Computational Decision and          
+                                            Affective Neuroscience              
+Psychology (PSYC)             PSYC    771   Research Topics in             11994
+                                            Nonconscious Processes              
+Psychology (PSYC)             PSYC    801   Clinical Internship (Child)    16054
+Psychology (PSYC)             PSYC    811   Mood and Anxiety Disorders     11664
+                                            Practicum                           
+Psychology (PSYC)             PSYC    817   Other Clinical Practica        16108
+Religious Studies (RLST)      RLST    127   Buddhist Thought: The          11305
+                                            Foundations                         
+Religious Studies (RLST)      RLST    148   Jewish History and Thought to  10419
+                                            Early Modern Times                  
+Religious Studies (RLST)      RLST    160   The Catholic Intellectual      10406
+                                            Tradition                           
+Religious Studies (RLST)      RLST    177   Reason and Religion            11220
+Religious Studies (RLST)      RLST    183   The Bhagavad Gita              14875
+Religious Studies (RLST)      RLST    195   Meanings of Life               12247
+Religious Studies (RLST)      RLST    201   Medieval Jews, Christians, and 10414
+                                            Muslims In Conversation             
+Religious Studies (RLST)      RLST    321   Hindus and Muslims in South    13045
+                                            Asia                                
+Religious Studies (RLST)      RLST    491   The Senior Essay               10590
+Religious Studies (RLST)      RLST    510   Method and Theory              10601
+Religious Studies (RLST)      RLST    541   Dreams, Demons, and You        15661
+Religious Studies (RLST)      RLST    618   Readings in Islamic Social     13800
+                                            History                             
+Religious Studies (RLST)      RLST    691   Society and the Supernatural   10460
+                                            in Early Modern Europe              
+Religious Studies (RLST)      RLST    717   Islamic Theology and           10593
+                                            Philosophy                          
+Religious Studies (RLST)      RLST    961   Directed Readings: American    10608
+                                            Religious History                   
+Religious Studies (RLST)      RLST    971   Directed Readings: Theology    10617
+Russian & East Europe Studies RSEE    241   Government, Law, and Society   10412
+(RSEE)                                      in Modern Russia, 1853-1953         
+Russian & East Europe Studies RSEE    271   European Intellectual History  10408
+(RSEE)                                      since Nietzsche                     
+Russian & East Europe Studies RSEE    312   Tolstoy's <i> War and Peace    10752
+(RSEE)                                      </i>TR                              
+School of Forestry &          F&ES    261   Minerals and Human Health      13633
+Environmental Studies (F&ES)                                                    
+School of Nursing (NURS)      NURS    901   Quantitative Methods for       14715
+                                            Health Research                     
+School of Nursing (NURS)      NURS    912   Knowledge Development for      14717
+                                            Nursing Science                     
+Slavic Languages &            CZEC    110   Elementary Czech I             10622
+Literatures (SLAV)                                                              
+Slavic Languages &            CZEC    130   Intermediate Czech             10623
+Literatures (SLAV)                                                         14027
+Slavic Languages &            FNSH    110   Elementary Finnish I           12808
+Literatures (SLAV)                                                              
+Slavic Languages &            HGRN    110   Elementary Hungarian I         12809
+Literatures (SLAV)                                                              
+Slavic Languages &            HGRN    130   Intermediate Hungarian I       12838
+Literatures (SLAV)                                                              
+Slavic Languages &            HGRN    150   Advanced Hungarian             12810
+Literatures (SLAV)                                                              
+Slavic Languages &            PLSH    110   Elementary Polish I            10773
+Literatures (SLAV)                                                              
+Slavic Languages &            PLSH    130   Intermediate Polish I          10774
+Literatures (SLAV)                                                              
+Slavic Languages &            PLSH    150   Advanced Polish                10775
+Literatures (SLAV)                                                              
+Slavic Languages &            RUSS    110   First-Year Russian I           10624
+Literatures (SLAV)                                                         10625
+Slavic Languages &            RUSS    122   Russian for Heritage Learners  10627
+Literatures (SLAV)                          I                                   
+Slavic Languages &            RUSS    125   Intensive Elementary Russian   10628
+Literatures (SLAV)                                                              
+Slavic Languages &            RUSS    130   Second-Year Russian I          10630
+Literatures (SLAV)                                                         10631
+                                                                           12509
+Slavic Languages &            RUSS    150   Third-Year Russian I           10632
+Literatures (SLAV)                                                              
+Slavic Languages &            RUSS    160   Fourth-Year Russian I          10633
+Literatures (SLAV)                                                              
+Slavic Languages &            RUSS    172   Russian History through        10634
+Literatures (SLAV)                          Literature and Film                 
+Slavic Languages &            RUSS    179   The Grotesque in Victor        10635
+Literatures (SLAV)                          Pelevin                             
+Slavic Languages &            RUSS    312   Tolstoy's <i> War and Peace    10748
+Literatures (SLAV)                          </i>TR                              
+Slavic Languages &            RUSS    681   Russian Romantic Poetry        10791
+Literatures (SLAV)                                                              
+Slavic Languages &            RUSS    715   Documentary, Fiction,          10310
+Literatures (SLAV)                          Docufiction                         
+Slavic Languages &            SBCR    110   Elementary Bosnian-Croatian-   12806
+Literatures (SLAV)                          Serbian I                           
+Slavic Languages &            SBCR    130   Intermediate Bosnian Croatian  12807
+Literatures (SLAV)                          Serbian I                           
+Slavic Languages &            SLAV    351   Documentary, Fiction,          10298
+Literatures (SLAV)                          Docufiction                         
+Slavic Languages &            UKRN    110   Elementary Ukrainian I         12811
+Literatures (SLAV)                                                              
+Slavic Languages &            UKRN    130   Intermediate Ukrainian I       12812
+Literatures (SLAV)                                                              
+Slavic Languages &            UKRN    150   Advanced Ukrainian I           12813
+Literatures (SLAV)                                                              
+Sociology (SOCY)              SOCY    81    Race and Place in British New  10636
+                                            Wave, K-Pop, and Beyond             
+Sociology (SOCY)              SOCY    103   Sports and Society             14139
+Sociology (SOCY)              SOCY    112   Foundations in Education       10168
+                                            Studies                             
+Sociology (SOCY)              SOCY    126   Health of the Public           10746
+Sociology (SOCY)              SOCY    133   Computers, Networks, and       10637
+                                            Society                             
+Sociology (SOCY)              SOCY    138   The Corporation                11263
+Sociology (SOCY)              SOCY    151   Foundations of Modern Social   10638
+                                            Theory                              
+Sociology (SOCY)              SOCY    162   Methods in Quantitative        11743
+                                            Sociology                           
+Sociology (SOCY)              SOCY    169   Visual Sociology               10639
+Sociology (SOCY)              SOCY    170   Contesting Injustice           12095
+Sociology (SOCY)              SOCY    172   Religion and Politics in the   11982
+                                            World                               
+Sociology (SOCY)              SOCY    301   Non-Cynical Social Thought     13259
+Sociology (SOCY)              SOCY    314   The Social Meaning of Money    11208
+Sociology (SOCY)              SOCY    331   Sexual Minorities from Plato   10734
+                                            to the Enlightenment                
+Sociology (SOCY)              SOCY    471   Individual Study               16188
+Sociology (SOCY)              SOCY    491   Senior Essay and Colloquium    10644
+                                            for Nonintensive Majors             
+Sociology (SOCY)              SOCY    551   Comparative and Historical     12123
+                                            Methods                             
+Sociology (SOCY)              SOCY    619   Non-Cynical Social Thought     15922
+South Asian Studies (SAST)    BNGL    110   Introductory Bengali I         15737
+South Asian Studies (SAST)    BNGL    150   Advanced Bengali I             13586
+South Asian Studies (SAST)    HNDI    110   Elementary Hindi I             12458
+                                                                           12459
+South Asian Studies (SAST)    HNDI    130   Intermediate Hindi I           12460
+                                                                           12461
+South Asian Studies (SAST)    HNDI    132   Accelerated Hindi I            12462
+South Asian Studies (SAST)    HNDI    150   Advanced Hindi                 12463
+South Asian Studies (SAST)    HNDI    198   Advanced Tutorial              12464
+South Asian Studies (SAST)    HNDI    510   Elementary Hindi               12471
+South Asian Studies (SAST)    MTBT    110   Elementary Modern Tibetan I    13602
+South Asian Studies (SAST)    MTBT    130   Intermediate Modern Tibetan I  13603
+South Asian Studies (SAST)    MTBT    150   Advanced Modern Tibetan I      13604
+South Asian Studies (SAST)    NPLI    110   Elementary Nepali I            13587
+South Asian Studies (SAST)    NPLI    130   Intermediate Nepali I          13590
+South Asian Studies (SAST)    NPLI    150   Advanced Nepali I              13591
+South Asian Studies (SAST)    PNJB    110   Elementary Punjabi I           13592
+South Asian Studies (SAST)    PNJB    130   Intermediate Punjabi I         13593
+South Asian Studies (SAST)    SAST    261   Buddhist Thought: The          11307
+                                            Foundations                         
+South Asian Studies (SAST)    SAST    491   Senior Essay                   12470
+South Asian Studies (SAST)    SKRT    110   Introductory Sanskrit I        12465
+South Asian Studies (SAST)    SKRT    130   Intermediate Sanskrit I        12467
+South Asian Studies (SAST)    SKRT    160   Advanced Sanskrit: Readings in 12472
+                                            Poetry and Drama                    
+South Asian Studies (SAST)    SKRT    510   Introductory Sanskrit I        13260
+South Asian Studies (SAST)    SNHL    110   Elementary Sinhala I           13596
+South Asian Studies (SAST)    SNHL    130   Intermediate Sinhala I         13597
+South Asian Studies (SAST)    TAML    110   Introductory Tamil I           13598
+South Asian Studies (SAST)    TBTN    110   Elementary Classical Tibetan I 13599
+South Asian Studies (SAST)    TBTN    130   Intermediate Classical Tibetan 13600
+                                            I                                   
+South Asian Studies (SAST)    TBTN    150   Advanced Classical Tibetan I   13601
+Southeast Asia Studies (SEAS) BURM    110   Elementary Burmese I           12831
+Southeast Asia Studies (SEAS) INDN    110   Elementary Indonesian I        12143
+                                                                           12144
+Southeast Asia Studies (SEAS) INDN    130   Intermediate Indonesian I      12147
+                                                                           12149
+                                                                           16169
+Southeast Asia Studies (SEAS) INDN    150   Advanced Indonesian I          12150
+Southeast Asia Studies (SEAS) INDN    170   Advanced Indonesian: Special   12151
+                                            Topics                              
+Southeast Asia Studies (SEAS) KHMR    110   Elementary Khmer I             12833
+Southeast Asia Studies (SEAS) KHMR    130   Intermediate Khmer I           12834
+Southeast Asia Studies (SEAS) VIET    110   Elementary Vietnamese I        12263
+Southeast Asia Studies (SEAS) VIET    132   Accelerated Vietnamese         12264
+Southeast Asia Studies (SEAS) VIET    150   Advanced Vietnamese            12265
+Spanish & Portuguese (SP&P)   PORT    110   Elementary Portuguese I        10662
+                                                                           10663
+                                                                           12789
+Spanish & Portuguese (SP&P)   PORT    130   Intermediate Portuguese I      10664
+                                                                           12790
+                                                                           13263
+Spanish & Portuguese (SP&P)   PORT    150   Advanced Practice: Brazilian   10665
+                                            Culture through Black Lives         
+Spanish & Portuguese (SP&P)   PORT    471   Directed Reading or Directed   10667
+                                            Research                            
+Spanish & Portuguese (SP&P)   PORT    491   The Senior Essay               10668
+Spanish & Portuguese (SP&P)   PORT    811   Slavery, Resistance, and       14517
+                                            Abolition in Brazil                 
+Spanish & Portuguese (SP&P)   SPAN    100   Spanish for Reading            10670
+Spanish & Portuguese (SP&P)   SPAN    110   Elementary Spanish I           10671
+                                                                           10672
+                                                                           10673
+                                                                           10674
+                                                                           10675
+                                                                           12900
+                                                                           12901
+                                                                           13894
+                                                                           13895
+Spanish & Portuguese (SP&P)   SPAN    120   Elementary Spanish II          10676
+                                                                           10677
+                                                                           10678
+                                                                           10679
+                                                                           10680
+                                                                           12015
+                                                                           13896
+Spanish & Portuguese (SP&P)   SPAN    125   Intensive Elementary Spanish   10681
+Spanish & Portuguese (SP&P)   SPAN    130   Intermediate Spanish I         10682
+                                                                           10683
+                                                                           10684
+                                                                           10685
+                                                                           10686
+                                                                           10687
+                                                                           10688
+                                                                           10689
+                                                                           10690
+                                                                           10691
+                                                                           12902
+                                                                           13897
+Spanish & Portuguese (SP&P)   SPAN    132   Spanish for Heritage Speakers  10692
+                                            I                                   
+Spanish & Portuguese (SP&P)   SPAN    140   Intermediate Spanish II        10693
+                                                                           10694
+                                                                           10695
+                                                                           10696
+                                                                           10697
+                                                                           12903
+                                                                           12904
+                                                                           12905
+                                                                           12906
+                                                                           12907
+Spanish & Portuguese (SP&P)   SPAN    261   Studies in Spanish Literature  10706
+                                            I                                   
+Spanish & Portuguese (SP&P)   SPAN    291   Introduction to Digital        15991
+                                            Humanities I: Architectures of      
+                                            Knowledge                           
+Spanish & Portuguese (SP&P)   SPAN    491   The Senior Essay               10710
+Spanish & Portuguese (SP&P)   SPAN    901   Psychoanalysis: Key Conceptual 11843
+                                            Differences between Freud and       
+                                            Lacan                               
+Spanish (SPAN)                SPAN    431   Latin American Languages of    11893
+                                            Liberation: The Long Sixties        
+Statistics and Data Science   S&DS    101   Introduction to Statistics:    11184
+(S&DS)                                      Life Sciences                       
+Statistics and Data Science   S&DS    102   Introduction to Statistics:    11192
+(S&DS)                                      Political Science                   
+Statistics and Data Science   S&DS    103   Introduction to Statistics:    11195
+(S&DS)                                      Social Sciences                     
+Statistics and Data Science   S&DS    105   Introduction to Statistics:    11200
+(S&DS)                                      Medicine                            
+Statistics and Data Science   S&DS    106   Introduction to Statistics:    11203
+(S&DS)                                      Data Analysis                       
+Statistics and Data Science   S&DS    108   Introduction to Statistics:    11206
+(S&DS)                                      Advanced Fundamentals               
+Statistics and Data Science   S&DS    109   Introduction to Statistics:    11207
+(S&DS)                                      Fundamentals                        
+Statistics and Data Science   S&DS    138   Foreign Assistance to Sub-     15719
+(S&DS)                                      Saharan Africa: Archival Data       
+                                            Analysis                            
+Statistics and Data Science   S&DS    150   Data Science Ethics            15192
+(S&DS)                                                                          
+Statistics and Data Science   S&DS    172   YData: Data Science for        11216
+(S&DS)                                      Political Campaigns                 
+Statistics and Data Science   S&DS    241   Probability Theory             11226
+(S&DS)                                                                          
+Statistics and Data Science   S&DS    312   Linear Models                  12428
+(S&DS)                                                                          
+Statistics and Data Science   S&DS    410   Statistical Inference          11244
+(S&DS)                                                                          
+Statistics and Data Science   S&DS    431   Optimization and Computation   12268
+(S&DS)                                                                          
+Statistics and Data Science   S&DS    491   Senior Project                 11255
+(S&DS)                                                                          
+Statistics and Data Science   S&DS    501   Introduction to Statistics:    11210
+(S&DS)                                      Life Sciences                       
+Statistics and Data Science   S&DS    541   Probability Theory             11228
+(S&DS)                                                                          
+Statistics and Data Science   S&DS    610   Statistical Inference          11245
+(S&DS)                                                                          
+Statistics and Data Science   S&DS    612   Linear Models                  12429
+(S&DS)                                                                          
+Statistics and Data Science   S&DS    631   Optimization and Computation   12270
+(S&DS)                                                                          
+Theater Studies (THST)        THST    110   Collaboration                  12303
+Theater Studies (THST)        THST    129   Tragedy in the European        10198
+                                            Literary Tradition                  
+Theater Studies (THST)        THST    210   Performance Concepts           12353
+Theater Studies (THST)        THST    215   Writing Dance                  12282
+Theater Studies (THST)        THST    216   The Body as Stage: Experiments 12354
+                                            in Performance Art             13993
+Theater Studies (THST)        THST    317   Tragedy and Drama of           11857
+                                            Reconciliation                      
+Theater Studies (THST)        THST    319   Embodying Story                12361
+Theater Studies (THST)        THST    401   Conceptual Sound Design for    10976
+                                            Theater                             
+Theater Studies (THST)        THST    413   Structures of Comic            12284
+                                            Performance                         
+Theater Studies (THST)        THST    414   Lyric Writing for Musical      12358
+                                            Theater                             
+Theater Studies (THST)        THST    471   Directed Independent Study     12478
+Theater Studies (THST)        THST    491   Senior Project in Theater      10977
+                                            Studies                             
+Women's Gender & Sexuality    WGSS    125   “We Interrupt this Program:    10723
+Studies (WGSS)                              The Multidimensional Histories      
+                                            of Queer and Trans Politics”        
+Women's Gender & Sexuality    WGSS    195   Meanings of Life               12274
+Studies (WGSS)                                                                  
+Women's Gender & Sexuality    WGSS    251   Experiments in the Novel: The  10240
+Studies (WGSS)                              Eighteenth Century                  
+Women's Gender & Sexuality    WGSS    291   Sexual Minorities from Plato   10727
+Studies (WGSS)                              to the Enlightenment                
+Women's Gender & Sexuality    WGSS    312   Technology, Race and Gender    13940
+Studies (WGSS)                                                                  
+Women's Gender & Sexuality    WGSS    315   Psychology of Gender           15772
+Studies (WGSS)                                                                  
+Women's Gender & Sexuality    WGSS    318   Race as Spectacle              10281
+Studies (WGSS)                                                                  
+Women's Gender & Sexuality    WGSS    351   Greek Tragedy and              13476
+Studies (WGSS)                              Psychoanalysis                      
+Women's Gender & Sexuality    WGSS    415   Samuel Delany and His Worlds   16101
+Studies (WGSS)                                                                  
+Women's Gender & Sexuality    WGSS    471   Independent Directed Study     10729
+Studies (WGSS)                                                                  
+Women's Gender & Sexuality    WGSS    613   Latinx Ethnography             10077
+Studies (WGSS)                                                                  
+Yale College (YALC)           PRAC    471   Fieldwork Practicum Analysis   11118
+Yale College (YALC)           PRAC    481   Mellon Mays and Edward A.      11119
+                                            Bouchet Junior Research             
+                                            Practicum                           
+Yale College (YALC)           SCIE    10    Perspectives on Biological     11117
+                                            Research                            
+Yale College College Seminar  CSYC    371   Game Theory in Action: From    11489
+(YCCS)                                      Poker to Business Negotiations      

@@ -1,0 +1,336 @@
+$ python3 reg.py -t Introduction
+deptname                      subject num   title                          crns 
+----------------------------- ------- ----- ------------------------------ -----
+African American Studies      AFAM    246   Introduction to African        14877
+(AFAM)                                      American Cinema                     
+African Studies (AFST)        AFST    277   Introduction to Critical       13402
+                                            Border Studies                      
+American Studies (AMST)       AMST    297   Introduction to Oral History   14175
+Anthropology (ANTH)           ANTH    116   Introduction to Biological     11271
+                                            Anthropology                        
+Anthropology (ANTH)           ANTH    235   Introduction to Critical       13403
+                                            Border Studies                      
+Anthropology (ANTH)           ANTH    316L  Introduction to Archaeological 12228
+                                            Laboratory Sciences                 
+Anthropology (ANTH)           ANTH    716L  Introduction to Archaeological 12230
+                                            Laboratory Sciences                 
+Applied Physics (APHY)        APHY    320   Introduction to Semiconductor  12494
+                                            Devices                             
+Archaeological Studies (ARCG) ARCG    245   Archaeology of Ancient Egypt:  11722
+                                            An Introduction                     
+Archaeological Studies (ARCG) ARCG    645   Archaeology of Ancient Egypt:  11735
+                                            An Introduction                     
+Archaeological Studies (ARCG) ARCG    316L  Introduction to Archaeological 12227
+                                            Laboratory Sciences                 
+Archaeological Studies (ARCG) ARCG    716L  Introduction to Archaeological 12229
+                                            Laboratory Sciences                 
+Architecture (ARCH)           ARCH    150   Introduction to Architecture   10994
+Architecture (ARCH)           ARCH    161   Introduction to Structures     10996
+Architecture (ARCH)           ARCH    345   Civic Art: Introduction to     11066
+                                            Urban Design                        
+Architecture (ARCH)           URBN    345   Civic Art: Introduction to     11067
+                                            Urban Design                        
+Art (ART)                     ART     120   Introduction to Sculpture:     11406
+                                            Wood                                
+Art (ART)                     ART     121   Introduction to Sculpture:     11407
+                                            Metal                               
+Art (ART)                     ART     132   Introduction to Graphic Design 11410
+                                                                           11411
+Astronomy (ASTR)              ASTR    155   Introduction to Astronomical   10110
+                                            Observing                           
+Biomedical Engineering (BENG) BENG    353   Introduction to Biomechanics   10127
+Chemical Engineering (CENG)   CENG    150   Engineering Improv: An         12196
+                                            Introduction to Engineering         
+                                            Analysis                            
+Chemical Engineering (CENG)   CENG    S150E Engineering Improv: An         12197
+                                            Introduction to Engineering         
+                                            Analysis                            
+Chemistry (CHEM)              CHEM    466   Introduction to Quantum        12551
+                                            Mechanics 1                         
+Chemistry (CHEM)              CHEM    467   Introduction to Quantum        12552
+                                            Mechanics 2                         
+Chemistry (CHEM)              CHEM    472   Introduction to Statistical    12553
+                                            Mechanics 1                         
+Chemistry (CHEM)              CHEM    473   Introduction to Statistical    12554
+                                            Mechanics 2                         
+Chemistry (CHEM)              CHEM    480   Introduction to Independent    11902
+                                            Research in Chemistry               
+Chemistry (CHEM)              CHEM    566   Introduction to Quantum        12629
+                                            Mechanics I                         
+Chemistry (CHEM)              CHEM    567   Introduction to Quantum        12630
+                                            Mechanics II                        
+Chemistry (CHEM)              CHEM    572   Introduction to Statistical    12627
+                                            Mechanics I                         
+Chemistry (CHEM)              CHEM    573   Introduction to Statistical    12628
+                                            Mechanics II                        
+Chemistry (CHEM)              CHEM    980   Introduction to Research for   15041
+                                            Long Rotations                 15043
+Classics (CLSS)               CLCV    125   Introduction to Ancient        10579
+                                            Philosophy                          
+Classics (CLSS)               GREK    131   Greek Prose: An Introduction   10152
+Classics (CLSS)               LATN    131   Latin Prose: An Introduction   10155
+Cognitive Science (CGSC)      CGSC    110   Introduction to Cognitive      11142
+                                            Science                             
+Comparative Literature (CPLT) CPLT    606   Introduction to Digital        15993
+                                            Humanities I: Architectures of      
+                                            Knowledge                           
+ComputationalBio&Bioinformati CB&B    740   Introduction to Health         11630
+c (CB&B)                                    Informatics                    15881
+Computer Science (CPSC)       CPSC    100   Introduction to Computing and  10932
+                                            Programming                         
+Computer Science (CPSC)       CPSC    200   Introduction to Information    10947
+                                            Systems                             
+Computer Science (CPSC)       CPSC    201   Introduction to Computer       10948
+                                            Science                             
+Computer Science (CPSC)       CPSC    323   Introduction to Systems        10878
+                                            Programming and Computer            
+                                            Organization                        
+Computer Science (CPSC)       CPSC    437   Introduction to Database       10904
+                                            Systems                             
+Computer Science (CPSC)       CPSC    447   Introduction to Quantum        10882
+                                            Computing                           
+Computer Science (CPSC)       CPSC    537   Introduction to Database       10905
+                                            Systems                             
+Computer Science (CPSC)       CPSC    547   Introduction to Quantum        10883
+                                            Computing                           
+Earth and Planetary Sciences  EPS     326   Introduction to Earth and      12105
+(EPS)                                       Planetary Physics                   
+Earth and Planetary Sciences  EPS     526   Introduction to Earth and      12104
+(EPS)                                       Planetary Physics                   
+East Asian Langs & Lits       CHNS    170   Introduction to Literary       11509
+(EALL)                                      Chinese I                           
+East Asian Langs & Lits       CHNS    570   Introduction to Literary       11501
+(EALL)                                      Chinese I                           
+East Asian Langs & Lits       JAPN    170   Introduction to Literary       14008
+(EALL)                                      Japanese                            
+East Asian Langs & Lits       JAPN    570   Introduction to Literary       14009
+(EALL)                                      Japanese                            
+East Asian Studies (EAST)     EAST    119   Introduction to the History of 10472
+                                            Art: Asian Art and Culture          
+Ecology & Evolutionary        E&EB    210   Introduction to Statistics:    11185
+Biology (E&EB)                              Life Sciences                       
+Ecology & Evolutionary        E&EB    510   Introduction to Statistics:    11211
+Biology (E&EB)                              Life Sciences                       
+Economics (ECON)              ECON    110   An Introduction to             11614
+                                            Microeconomic Analysis         11634
+                                                                           11635
+                                                                           11636
+Economics (ECON)              ECON    111   An Introduction to             11637
+                                            Macroeconomic Analysis              
+Economics (ECON)              ECON    117   Introduction to Data Analysis  11620
+                                            and Econometrics                    
+Economics (ECON)              ECON    135   Introduction to Probability    11641
+                                            and Statistics                      
+Economics (ECON)              ECON    212   Introduction to Political      12013
+                                            Economy                             
+Electrical Engineering (EENG) EENG    200   Introduction to Electronics    12491
+Electrical Engineering (EENG) EENG    320   Introduction to Semiconductor  12493
+                                            Devices                             
+Engineering & Applied Science ENAS    118   Introduction to Engineering,   12657
+(ENAS)                                      Innovation, and Design              
+Engineering & Applied Science ENAS    130   Introduction to Computing for  12654
+(ENAS)                                      Engineers and Scientists            
+Engineering & Applied Science ENAS    558   Introduction to Biomechanics   10175
+(ENAS)                                                                          
+Engineering & Applied Science ENAS    773   Introduction to Robotics,      12620
+(ENAS)                                      Control, and Learning               
+English Language & Literature ENGL    123   Introduction to Creative       10187
+(ENGL)                                      Writing                        10188
+                                                                           10189
+                                                                           10190
+English Language & Literature ENGL    407   Introduction to Writing        10213
+(ENGL)                                      Fiction                             
+English Language & Literature ENGL    408   Introduction to Writing Poetry 10214
+(ENGL)                                                                          
+Ethics, Politics, & Economics EP&E    203   Introduction to Statistics:    11193
+(EP&E)                                      Political Science                   
+Ethics, Politics, & Economics EP&E    209   Introduction to Statistics:    11196
+(EP&E)                                      Social Sciences                     
+Ethnicity, Race, & Migration  ER&M    200   Introduction to Ethnicity,     10266
+(ER&M)                                      Race, and Migration                 
+Ethnicity, Race, & Migration  ER&M    277   Introduction to Critical       14037
+(ER&M)                                      Border Studies                      
+Film & Media Studies (FILM)   FILM    150   Introduction to Film Studies   10286
+Film & Media Studies (FILM)   FILM    246   Introduction to African        14878
+                                            American Cinema                     
+French (FREN)                 FREN    170   Introduction to Literatures in 10844
+                                            French                              
+French (FREN)                 FREN    945   Introduction to Digital        15994
+                                            Humanities I: Architectures of      
+                                            Knowledge                           
+History (HIST)                HIST    297   Introduction to Oral History   14176
+History (HIST)                HIST    305   Introduction to Latin American 12596
+                                            Studies: History, Culture and       
+                                            Society                             
+History (HIST)                HIST    595   Introduction to Modern         10428
+                                            European Jewish History             
+History of Art (HSAR)         HSAR    119   Introduction to the History of 10462
+                                            Art: Asian Art and Culture          
+Humanities (HUMS)             HUMS    128   From Gilgamesh to Persepolis:  12051
+                                            Introduction to Near Eastern        
+                                            Literatures                         
+Humanities (HUMS)             HUMS    387   Introduction to Digital        15992
+                                            Humanities I: Architectures of      
+                                            Knowledge                           
+Immunobiology (IBIO)          IBIO    600   Introduction to Research:      15083
+                                            Faculty Research Presentations      
+Investigative Medicine (IMED) IMED    645   Introduction to Biostatistics  10486
+                                            in Clinical Investigation           
+Italian Language & Literature ITAL    162   Introduction to Italian        10502
+(ITAL)                                      Literature: From the Duecento       
+                                            to the Renaissance                  
+Judaic Studies (JDST)         JDST    673   Introduction to Babylonian     15803
+                                            Aramaic                             
+Judaic Studies (JDST)         JDST    844   Introduction to Modern         10457
+                                            European Jewish History             
+Latin American Studies (LAST) LAST    100   Introduction to Latin American 12595
+                                            Studies: History, Culture and       
+                                            Society                             
+Latin American Studies (LAST) LAST    223   Spanish in Film: An            10716
+                                            Introduction to the New Latin       
+                                            American Cinema                     
+Latin American Studies (LAST) LAST    247   Introduction to the Cultures   10712
+                                            of Latin America                    
+Linguistics (LING)            LING    110   Language: Introduction to      12174
+                                            Linguistics                         
+Linguistics (LING)            LING    510   Introduction to Linguistics    13026
+Mathematics (MATH)            MATH    110   Introduction to Functions and  10803
+                                            Calculus I                     10804
+                                                                           10805
+                                                                           15885
+Mathematics (MATH)            MATH    118   Introduction to Functions of   11298
+                                            Several Variables                   
+Mathematics (MATH)            MATH    310   Introduction to Complex        11326
+                                            Analysis                            
+Mathematics (MATH)            MATH    350   Introduction to Abstract       11329
+                                            Algebra                             
+Mathematics (MATH)            MATH    526   Introduction to Differentiable 11339
+                                            Manifolds                           
+Mathematics (MATH)            MATH    544   Introduction to Algebraic      11341
+                                            Topology                            
+Mathematics (MATH)            MATH    621   Introduction to Ergodic Theory 15383
+                                            and Dynamical Systems               
+Mathematics (MATH)            MATH    719   Introduction to Anosov         12505
+                                            Subgroups                           
+Mechanical Engineering (MENG) MENG    285   Introduction to Materials      12590
+                                            Science                             
+Mechanical Engineering (MENG) MENG    443   Introduction to Robotics,      12646
+                                            Control, and Learning               
+Modern Middle Eastern Studies MMES    327   Introduction to the Field of   12181
+(MMES)                                      Near Eastern Languages &            
+                                            Civilizations                       
+Music Dept (MUSI)             MUSI    328   Introduction to Conducting     12124
+Naval Science (NAVY)          NAVY    111   Introduction to Naval Science  10549
+Near Eastern Languages &      EGYP    110   Introduction to Classical      11723
+Civilizations (NELC)                        Hieroglyphic Egyptian I             
+Near Eastern Languages &      EGYP    500   Introduction to Classical      11728
+Civilizations (NELC)                        Hieroglyphic Egyptian I             
+Near Eastern Languages &      NELC    128   From Gilgamesh to Persepolis:  12050
+Civilizations (NELC)                        Introduction to Near Eastern        
+                                            Literatures                         
+Near Eastern Languages &      NELC    243   Archaeology of Ancient Egypt:  11721
+Civilizations (NELC)                        An Introduction                     
+Near Eastern Languages &      NELC    327   Introduction to the Field of   12180
+Civilizations (NELC)                        Near Eastern Languages &            
+                                            Civilizations                       
+Near Eastern Languages &      NELC    571   Introduction to the Field of   12179
+Civilizations (NELC)                        Near Eastern Languages &            
+                                            Civilizations                       
+Near Eastern Languages &      NELC    627   Archaeology of Ancient Egypt:  11734
+Civilizations (NELC)                        An Introduction                     
+Near Eastern Languages &      OTTM    310   Introduction To Ottoman        11741
+Civilizations (NELC)                        Turkish I                           
+Near Eastern Languages &      OTTM    610   Introduction to Ottoman        11742
+Civilizations (NELC)                        Turkish I                           
+Near Eastern Languages &      SMTC    534   Introduction to Babylonian     15809
+Civilizations (NELC)                        Aramaic                             
+Philosophy (PHIL)             PHIL    125   Introduction to Ancient        10555
+                                            Philosophy                          
+Philosophy (PHIL)             PHIL    178   Introduction to Political      10557
+                                            Philosophy                          
+Physics (PHYS)                PHYS    301   Introduction to Mathematical   12415
+                                            Methods of Physics                  
+Physics (PHYS)                PHYS    353   Introduction to Biomechanics   10140
+Physics (PHYS)                PHYS    524   Introduction to Nuclear        11376
+                                            Physics                             
+Physics (PHYS)                PHYS    538   Introduction to Relativistic   12918
+                                            Astrophysics and General            
+                                            Relativity                          
+Political Science (PLSC)      PLSC    442   Introduction to Political      12012
+                                            Economy                             
+Political Science (PLSC)      PLSC    452   Introduction to Statistics:    11194
+                                            Political Science                   
+Political Science (PLSC)      PLSC    453   Introduction to Statistics:    11197
+                                            Social Sciences                     
+Political Science (PLSC)      PLSC    510   Introduction to the Study of   12218
+                                            Politics                            
+Political Science (PLSC)      PLSC    518   Introduction to Game Theory    13353
+Political Science (PLSC)      PLSC    705   Introduction to Political      12205
+                                            Economy                             
+Political Science (PLSC)      PLSC    800   Introduction to American       12214
+                                            Politics                            
+Psychology (PSYC)             PSYC    110   Introduction to Psychology     11944
+Psychology (PSYC)             PSYC    130   Introduction to Cognitive      11143
+                                            Science                             
+Psychology (PSYC)             PSYC    684   Introduction to Psychotherapy: 11996
+                                            Technique                           
+Religious Studies (RLST)      RLST    373   Introduction to Pali Language  13486
+                                            and Literature                      
+Religious Studies (RLST)      RLST    690   Introduction to Pali Language  13488
+                                            and Literature                      
+Religious Studies (RLST)      RLST    692   Introduction to Modern         10456
+                                            European Jewish History             
+School of Nursing (NURS)      NURS    905   Intervention Development and   14719
+                                            Introduction to Implementation      
+                                            Science                             
+Sociology (SOCY)              SOCY    580   Introduction to Methods in     11745
+                                            Quantitative Sociology              
+South Asian Studies (SAST)    SAST    363   Introduction to Pali Language  13485
+                                            and Literature                      
+South Asian Studies (SAST)    SAST    556   Introduction to Pali Language  13487
+                                            and Literature                      
+Spanish & Portuguese (SP&P)   SPAN    223   Spanish in Film: An            10701
+                                            Introduction to the New Latin       
+                                            American Cinema                     
+Spanish & Portuguese (SP&P)   SPAN    247   Introduction to the Cultures   10705
+                                            of Latin America                    
+Spanish & Portuguese (SP&P)   SPAN    291   Introduction to Digital        15991
+                                            Humanities I: Architectures of      
+                                            Knowledge                           
+Spanish & Portuguese (SP&P)   SPAN    845   Introduction to Digital        15995
+                                            Humanities I: Architectures of      
+                                            Knowledge                           
+Statistics and Data Science   S&DS    101   Introduction to Statistics:    11184
+(S&DS)                                      Life Sciences                       
+Statistics and Data Science   S&DS    102   Introduction to Statistics:    11192
+(S&DS)                                      Political Science                   
+Statistics and Data Science   S&DS    103   Introduction to Statistics:    11195
+(S&DS)                                      Social Sciences                     
+Statistics and Data Science   S&DS    105   Introduction to Statistics:    11200
+(S&DS)                                      Medicine                            
+Statistics and Data Science   S&DS    106   Introduction to Statistics:    11203
+(S&DS)                                      Data Analysis                       
+Statistics and Data Science   S&DS    108   Introduction to Statistics:    11206
+(S&DS)                                      Advanced Fundamentals               
+Statistics and Data Science   S&DS    109   Introduction to Statistics:    11207
+(S&DS)                                      Fundamentals                        
+Statistics and Data Science   S&DS    240   An Introduction to Probability 11224
+(S&DS)                                      Theory                              
+Statistics and Data Science   S&DS    501   Introduction to Statistics:    11210
+(S&DS)                                      Life Sciences                       
+Statistics and Data Science   S&DS    502   Introduction to Statistics:    11212
+(S&DS)                                      Political Science                   
+Statistics and Data Science   S&DS    503   Introduction to Statistics:    11213
+(S&DS)                                      Social Sciences                     
+Statistics and Data Science   S&DS    505   Introduction to Statistics:    11214
+(S&DS)                                      Medicine                            
+Statistics and Data Science   S&DS    506   Introduction to Statistics:    11215
+(S&DS)                                      Data Analysis                       
+Statistics and Data Science   S&DS    540   An Introduction to Probability 11225
+(S&DS)                                      Theory                              
+Theater Studies (THST)        THST    200   Introduction to Theatrical     12363
+                                            Violence                            
+Theater Studies (THST)        THST    249   Introduction to African        14879
+                                            American Cinema                     
+Women's Gender & Sexuality    WGSS    600   Introduction to Women’s,       11705
+Studies (WGSS)                              Gender, and Sexuality Studies       

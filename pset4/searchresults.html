@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Course Additional Info</title>
+     </head>
+     <header>
+        <h1>Course Additional Info</h1>
+    </header>
+    <br>
+    <style>table, th ,td {border:1px solid black}</style>
+    <body>
+        <table>
+            <tr>
+                <th>Department Name</th> 
+                <th>Subject Code</th>
+                <th>Course Number</th>
+            </tr>
+            {% for index in range(course.get_deptname()|length): %}
+                <tr>
+                    <td>{{course.get_deptname()[index]}}</td>
+                    <td>{{course.get_subjectcode()[index]}}</td>
+                    <td>{{course.get_coursenum()[index]}}</td>
+                </tr>
+            {% endfor %}
+        </table>
+        <br>
+        <table>
+            <tr>
+                <th>Title</th>   
+            </tr>
+            {% for index in range(course.get_title()|length): %}
+                <tr>
+                    <td>{{course.get_title()[index]}}</td>
+                </tr>
+            {% endfor %}
+        </table>
+        <br>
+        <table>
+            <tr>
+                <th>Description</th>
+            </tr>
+            {% for index in range(course.get_descrip()|length): %}
+                <tr>
+                    <td>{{course.get_descrip()[index]|safe}}</td>
+                </tr>
+            {% endfor %}
+        </table>
+        <br>
+        <table>
+            <tr>
+                <th>Prerequisites</th>
+            </tr>
+            {% for index in range(course.get_prereqs()|length): %}
+                <tr>
+                    <td>{{course.get_prereqs()[index]|safe}}</td>
+                </tr>
+            {% endfor %}
+        </table>
+        <br>
+        <table>
+            <tr>
+                <th>Section Number</th>
+                <th>CRN</th>
+                <th>Meetings</th>
+            </tr>
+            {% for index in range(course.get_sectionnumber()|length): %}
+                <tr>
+                    <td>{{course.get_sectionnumber()[index]}}</td>
+                    <td>{{course.get_crn()[index]}}</td>
+                    <td>{{course.get_meetinginfo()[index]}}</td>
+                </tr>
+            {% endfor %}
+        </table>
+        <br>
+        <table>
+            <tr>
+                <th>Crosslistings</th>
+            </tr>
+            {% for index in range(course.get_cross_listings()|length): %}
+                <tr>
+                    <td>{{course.get_cross_listings()[index]}}</td>
+                </tr>
+            {% endfor %}
+        </table>
+        <br>
+        <table>
+            <tr>
+                <th>Professors</th>
+            </tr>
+            {% for index in range(course.get_prof()|length): %}
+                <tr>
+                    <td>{{course.get_prof()[index]}}</td>
+                </tr>
+            {% endfor %}
+        </table>
+        <br>
+        <a href="/">Course Search</a>
+        <br>
+    </body>
+    <footer>
+        {% include 'footer.html' %}
+    </footer>
+</html>

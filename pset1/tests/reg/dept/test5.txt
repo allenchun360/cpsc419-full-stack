@@ -1,0 +1,78 @@
+$ python3 reg.py -d SLAV
+deptname                       subject num title                           crns 
+------------------------------ ------- --- ------------------------------- -----
+Slavic Languages & Literatures CZEC    110 Elementary Czech I              10622
+(SLAV)                                                                          
+Slavic Languages & Literatures CZEC    130 Intermediate Czech              10623
+(SLAV)                                                                     14027
+Slavic Languages & Literatures FNSH    110 Elementary Finnish I            12808
+(SLAV)                                                                          
+Slavic Languages & Literatures HGRN    110 Elementary Hungarian I          12809
+(SLAV)                                                                          
+Slavic Languages & Literatures HGRN    130 Intermediate Hungarian I        12838
+(SLAV)                                                                          
+Slavic Languages & Literatures HGRN    150 Advanced Hungarian              12810
+(SLAV)                                                                          
+Slavic Languages & Literatures PLSH    110 Elementary Polish I             10773
+(SLAV)                                                                          
+Slavic Languages & Literatures PLSH    130 Intermediate Polish I           10774
+(SLAV)                                                                          
+Slavic Languages & Literatures PLSH    150 Advanced Polish                 10775
+(SLAV)                                                                          
+Slavic Languages & Literatures RUSS    26  Culture and Everyday Life in    14089
+(SLAV)                                     Central Asia                         
+Slavic Languages & Literatures RUSS    110 First-Year Russian I            10624
+(SLAV)                                                                     10625
+Slavic Languages & Literatures RUSS    122 Russian for Heritage Learners I 10627
+(SLAV)                                                                          
+Slavic Languages & Literatures RUSS    125 Intensive Elementary Russian    10628
+(SLAV)                                                                          
+Slavic Languages & Literatures RUSS    130 Second-Year Russian I           10630
+(SLAV)                                                                     10631
+                                                                           12509
+Slavic Languages & Literatures RUSS    150 Third-Year Russian I            10632
+(SLAV)                                                                          
+Slavic Languages & Literatures RUSS    160 Fourth-Year Russian I           10633
+(SLAV)                                                                          
+Slavic Languages & Literatures RUSS    172 Russian History through         10634
+(SLAV)                                     Literature and Film                  
+Slavic Languages & Literatures RUSS    179 The Grotesque in Victor Pelevin 10635
+(SLAV)                                                                          
+Slavic Languages & Literatures RUSS    252 Modernism and Revolution        10798
+(SLAV)                                                                          
+Slavic Languages & Literatures RUSS    305 Modernist Paris and Moscow      11759
+(SLAV)                                                                          
+Slavic Languages & Literatures RUSS    312 Tolstoy's <i> War and Peace     10748
+(SLAV)                                     </i>TR                               
+Slavic Languages & Literatures RUSS    325 Ten Eurasian Cities             15908
+(SLAV)                                                                          
+Slavic Languages & Literatures RUSS    338 Documentary, Fiction,           10299
+(SLAV)                                     Docufiction                          
+Slavic Languages & Literatures RUSS    480 Directed Reading in Russian     16162
+(SLAV)                                     Literature                           
+Slavic Languages & Literatures RUSS    490 The Senior Essay                16161
+(SLAV)                                                                          
+Slavic Languages & Literatures RUSS    608 Eighteenth-Century Russian      10797
+(SLAV)                                     Literature                           
+Slavic Languages & Literatures RUSS    681 Russian Romantic Poetry         10791
+(SLAV)                                                                          
+Slavic Languages & Literatures RUSS    696 Post-Stalin Literature and Film 10868
+(SLAV)                                                                          
+Slavic Languages & Literatures RUSS    715 Documentary, Fiction,           10310
+(SLAV)                                     Docufiction                          
+Slavic Languages & Literatures RUSS    834 Aspects of Russian Grammar and  14058
+(SLAV)                                     Teaching Methodology                 
+Slavic Languages & Literatures SBCR    110 Elementary Bosnian-Croatian-    12806
+(SLAV)                                     Serbian I                            
+Slavic Languages & Literatures SBCR    130 Intermediate Bosnian Croatian   12807
+(SLAV)                                     Serbian I                            
+Slavic Languages & Literatures SLAV    351 Documentary, Fiction,           10298
+(SLAV)                                     Docufiction                          
+Slavic Languages & Literatures SLAV    900 Directed Reading                16191
+(SLAV)                                                                          
+Slavic Languages & Literatures UKRN    110 Elementary Ukrainian I          12811
+(SLAV)                                                                          
+Slavic Languages & Literatures UKRN    130 Intermediate Ukrainian I        12812
+(SLAV)                                                                          
+Slavic Languages & Literatures UKRN    150 Advanced Ukrainian I            12813
+(SLAV)                                                                          

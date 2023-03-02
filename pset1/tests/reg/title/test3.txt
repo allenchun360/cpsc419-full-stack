@@ -1,0 +1,18 @@
+$ python3 reg.py -t "to digital"
+deptname                      subject num title                            crns 
+----------------------------- ------- --- -------------------------------- -----
+Comparative Literature (CPLT) CPLT    606 Introduction to Digital          15993
+                                          Humanities I: Architectures of        
+                                          Knowledge                             
+French (FREN)                 FREN    945 Introduction to Digital          15994
+                                          Humanities I: Architectures of        
+                                          Knowledge                             
+Humanities (HUMS)             HUMS    387 Introduction to Digital          15992
+                                          Humanities I: Architectures of        
+                                          Knowledge                             
+Spanish & Portuguese (SP&P)   SPAN    291 Introduction to Digital          15991
+                                          Humanities I: Architectures of        
+                                          Knowledge                             
+Spanish & Portuguese (SP&P)   SPAN    845 Introduction to Digital          15995
+                                          Humanities I: Architectures of        
+                                          Knowledge                             

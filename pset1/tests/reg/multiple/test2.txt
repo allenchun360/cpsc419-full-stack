@@ -1,0 +1,45 @@
+$ python3 reg.py -d cpsc -n 4
+deptname                subject num title                                  crns 
+----------------------- ------- --- -------------------------------------- -----
+Computer Science (CPSC) CPAR    491 Senior Project in Computing and the    10873
+                                    Arts                                        
+Computer Science (CPSC) CPSC    334 Creative Embedded Systems              10936
+Computer Science (CPSC) CPSC    413 Computer System Security               10915
+Computer Science (CPSC) CPSC    414 Computing Then and Now:  How Digital   10885
+                                    Technology Evolves                          
+Computer Science (CPSC) CPSC    415 Law, Security, and Logic               13915
+Computer Science (CPSC) CPSC    419 Full Stack Web Programming             13382
+Computer Science (CPSC) CPSC    422 Design and Implementation of Operating 10902
+                                    Systems                                     
+Computer Science (CPSC) CPSC    424 Parallel Programming Techniques        10945
+Computer Science (CPSC) CPSC    429 Principles of Computer System Design   10910
+Computer Science (CPSC) CPSC    431 Computer Music: Algorithmic and        10939
+                                    Heuristic Composition                       
+Computer Science (CPSC) CPSC    435 Building an Internet Router            10906
+Computer Science (CPSC) CPSC    437 Introduction to Database Systems       10904
+Computer Science (CPSC) CPSC    439 Software Engineering                   10912
+Computer Science (CPSC) CPSC    446 Data and Information Visualization     10898
+Computer Science (CPSC) CPSC    447 Introduction to Quantum Computing      10882
+Computer Science (CPSC) CPSC    448 Silicon Compilation                    12497
+Computer Science (CPSC) CPSC    455 Economics and Computation              10879
+Computer Science (CPSC) CPSC    459 Building Interactive Machines          10908
+Computer Science (CPSC) CPSC    464 Algorithms and their Societal          13207
+                                    Implications                                
+Computer Science (CPSC) CPSC    465 Theory of Distributed Systems          10876
+Computer Science (CPSC) CPSC    468 Computational Complexity               10922
+Computer Science (CPSC) CPSC    472 Intelligent Robotics                   10900
+Computer Science (CPSC) CPSC    474 Computational Intelligence for Games   10919
+Computer Science (CPSC) CPSC    475 Computational Vision and Biological    10955
+                                    Perception                                  
+Computer Science (CPSC) CPSC    479 Advanced Topics in Computer Graphics   13970
+Computer Science (CPSC) CPSC    483 Deep Learning on Graph-Structured Data 15816
+Computer Science (CPSC) CPSC    490 Senior Project                         10874
+Computer Science (CPSC) CPSC    524 Parallel Programming Techniques        10946
+Computer Science (CPSC) CPSC    546 Data and Information Visualization     10899
+Computer Science (CPSC) CPSC    547 Introduction to Quantum Computing      10883
+Computer Science (CPSC) CPSC    564 Algorithms and their Societal          13388
+                                    Implications                                
+Computer Science (CPSC) CPSC    574 Computational Intelligence for Games   10920
+Computer Science (CPSC) CPSC    644 Geometric and Topological Methods in   13093
+                                    Machine Learning                            
+Computer Science (CPSC) CSEC    491 Senior Project                         10875

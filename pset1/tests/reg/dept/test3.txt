@@ -1,0 +1,176 @@
+$ python3 reg.py -d CHEM
+deptname         subject num  title                                        crns 
+---------------- ------- ---- -------------------------------------------- -----
+Chemistry (CHEM) CHEM    101  Chemistry in the Modern World                12558
+Chemistry (CHEM) CHEM    161  General Chemistry I                          11231
+                                                                           15987
+Chemistry (CHEM) CHEM    163  Advanced General Chemistry I                 11235
+Chemistry (CHEM) CHEM    165  General Chemistry II                         11234
+Chemistry (CHEM) CHEM    174  Organic Chemistry for First Year Students I  11236
+Chemistry (CHEM) CHEM    220  Organic Chemistry                            11237
+Chemistry (CHEM) CHEM    332  Physical Chemistry with Applications in the  11238
+                              Physical Sciences I                               
+Chemistry (CHEM) CHEM    400  Current Chemistry Seminar                    11249
+Chemistry (CHEM) CHEM    402  Fundamentals of Transition Metal Chemistry   12545
+Chemistry (CHEM) CHEM    403  Fundamentals of Organometallic Chemistry     12546
+Chemistry (CHEM) CHEM    416  Organic Structure and Energetics             12537
+Chemistry (CHEM) CHEM    417  Kinetics and Thermodynamics in Organic       12538
+                              Systems                                           
+Chemistry (CHEM) CHEM    419  Foundations of Chemical Biology              12541
+Chemistry (CHEM) CHEM    420  Foundations of Chemical Biology II: Protein  13775
+                              Design & Catalysis                                
+Chemistry (CHEM) CHEM    424  Foundations of Chemical Biology II:          12683
+                              Applications of Chemical Biology to               
+                              Therapeutics                                      
+Chemistry (CHEM) CHEM    432  Synthetic Methods in Organic Chemistry I     12542
+Chemistry (CHEM) CHEM    433  Synthetic Methods in Organic Chemistry II    12543
+Chemistry (CHEM) CHEM    466  Introduction to Quantum Mechanics 1          12551
+Chemistry (CHEM) CHEM    467  Introduction to Quantum Mechanics 2          12552
+Chemistry (CHEM) CHEM    472  Introduction to Statistical Mechanics 1      12553
+Chemistry (CHEM) CHEM    473  Introduction to Statistical Mechanics 2      12554
+Chemistry (CHEM) CHEM    480  Introduction to Independent Research in      11902
+                              Chemistry                                         
+Chemistry (CHEM) CHEM    490  Independent Research in Chemistry            11903
+Chemistry (CHEM) CHEM    502  Fundamentals of Transition Metal Chemistry   12625
+Chemistry (CHEM) CHEM    503  Fundamentals of Organometallic Chemistry     12626
+Chemistry (CHEM) CHEM    509  Research Frontiers in Materials Chemistry    12547
+Chemistry (CHEM) CHEM    516  Organic Structure and Energetics             12613
+Chemistry (CHEM) CHEM    517  Kinetics and Thermodynamics in Organic       12614
+                              Systems                                           
+Chemistry (CHEM) CHEM    519  Foundations of Chemical Biology              12615
+Chemistry (CHEM) CHEM    520  Foundations of Chemical Biology II: Protein  13783
+                              Design & Catalysis                                
+Chemistry (CHEM) CHEM    524  Foundations of Chemical Biology II:          12690
+                              Applications of Chemical Biology to               
+                              Therapeutics                                      
+Chemistry (CHEM) CHEM    532  Synthetic Methods in Organic Chemistry I     12616
+Chemistry (CHEM) CHEM    533  Synthetic Methods in Organic Chemistry II    12617
+Chemistry (CHEM) CHEM    566  Introduction to Quantum Mechanics I          12629
+Chemistry (CHEM) CHEM    567  Introduction to Quantum Mechanics II         12630
+Chemistry (CHEM) CHEM    572  Introduction to Statistical Mechanics I      12627
+Chemistry (CHEM) CHEM    573  Introduction to Statistical Mechanics II     12628
+Chemistry (CHEM) CHEM    574  Experimental Physical Methods in Molecular   13442
+                              Sciences I                                        
+Chemistry (CHEM) CHEM    575  Experimental Physical Methods in Molecular   13443
+                              Sciences II                                       
+Chemistry (CHEM) CHEM    576  Fundamentals for Physical Chemistry          12555
+Chemistry (CHEM) CHEM    578  Molecules and Radiation I: Matrix Methods in 12556
+                              Quantum Mechanics                                 
+Chemistry (CHEM) CHEM    579  Molecules and Radiation II: Time-Dependent   12557
+                              Quantum Mechanics and Spectroscopy                
+Chemistry (CHEM) CHEM    590  Ethical Conduct and Scientific Research      12638
+Chemistry (CHEM) CHEM    600  Research Seminar                             12710
+                                                                           12713
+                                                                           12716
+                                                                           12719
+                                                                           12722
+                                                                           12724
+                                                                           12730
+                                                                           12732
+                                                                           12734
+                                                                           12735
+                                                                           12738
+                                                                           12740
+                                                                           12741
+                                                                           12743
+                                                                           12745
+                                                                           12746
+                                                                           12747
+                                                                           12748
+                                                                           12749
+                                                                           12750
+                                                                           12751
+                                                                           12752
+                                                                           12753
+                                                                           12754
+                                                                           12755
+                                                                           12756
+                                                                           12757
+                                                                           12758
+                                                                           12759
+                                                                           12760
+                                                                           12761
+                                                                           12762
+                                                                           12763
+                                                                           12764
+                                                                           12765
+                                                                           12766
+                                                                           12767
+                                                                           12768
+                                                                           12770
+                                                                           12772
+                                                                           12773
+                                                                           12774
+                                                                           12775
+                                                                           12776
+                                                                           12777
+                                                                           12778
+                                                                           12779
+                                                                           12780
+                                                                           12781
+                                                                           12782
+Chemistry (CHEM) CHEM    720  Current Topics in Organic Chemistry          13901
+Chemistry (CHEM) CHEM    730  Theoretical Chemistry Seminar                13902
+Chemistry (CHEM) CHEM    740  Seminar in Chemical Biology                  13903
+Chemistry (CHEM) CHEM    750  Biophysical and Physical Chemistry Seminar   13904
+Chemistry (CHEM) CHEM    760  Seminar in Inorganic Chemistry               13905
+Chemistry (CHEM) CHEM    980  Introduction to Research for Long Rotations  15041
+                                                                           15043
+Chemistry (CHEM) CHEM    990  Research                                     12678
+                                                                           12679
+                                                                           12680
+                                                                           12681
+                                                                           12682
+                                                                           12684
+                                                                           12685
+                                                                           12686
+                                                                           12687
+                                                                           12688
+                                                                           12689
+                                                                           12691
+                                                                           12692
+                                                                           12693
+                                                                           12694
+                                                                           12695
+                                                                           12696
+                                                                           12697
+                                                                           12698
+                                                                           12699
+                                                                           12701
+                                                                           12702
+                                                                           12703
+                                                                           12704
+                                                                           12705
+                                                                           12706
+                                                                           12707
+                                                                           12708
+                                                                           12709
+                                                                           12711
+                                                                           12712
+                                                                           12714
+                                                                           12715
+                                                                           12717
+                                                                           12718
+                                                                           12720
+                                                                           12721
+                                                                           12723
+                                                                           12725
+                                                                           12726
+                                                                           12727
+                                                                           12728
+                                                                           12729
+                                                                           12731
+                                                                           12733
+                                                                           12736
+                                                                           12737
+                                                                           12739
+                                                                           12742
+                                                                           12744
+Chemistry (CHEM) CHEM    134L General Chemistry Laboratory I               11241
+Chemistry (CHEM) CHEM    136L General Chemistry Laboratory II              11243
+Chemistry (CHEM) CHEM    222L Laboratory for Organic Chemistry I           11246
+Chemistry (CHEM) CHEM    226L Intensive Advanced Chemistry Laboratory      11247
+Chemistry (CHEM) CHEM    330L Laboratory for Physical Chemistry I          11248
+Chemistry (CHEM) CHEM    560L Advanced Instrumentation Laboratory I        13887
+Chemistry (CHEM) CHEM    562L Laboratory in Instrument Design and the      16114
+                              Mechanical Arts                                   

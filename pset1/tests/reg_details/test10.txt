@@ -1,0 +1,36 @@
+$ python3 regdetails.py 12076
+deptcode deptname                           subjectcode coursenum
+-------- ---------------------------------- ----------- ---------
+EPS      Earth and Planetary Sciences (EPS) EPS         555      
+
+title                           
+--------------------------------
+Rock Formation in Mountain Belts
+
+descrip                                                                         
+--------------------------------------------------------------------------------
+<p>Examination of the fundamental principles governing the formation of         
+metamorphic and igneous rocks during mountain building. Topics include processes
+of heat and mass transfer in orogenic belts, generation of igneous rocks in     
+continental and subduction settings, ultra-high-pressure and ultra-high-        
+temperature metamorphism, spatial and temporal patterns of petrologic processes 
+throughout geologic time, and pressure-temperature-time paths of metamorphic and
+igneous rocks.</p>                                                              
+
+prereqs
+-------
+None   
+
+sectionnumber crn   meetinginfo              
+------------- ----- -------------------------
+1             12076 TTh 11.35-12.50 @ KGL 119
+                    HTBA @ TBA               
+
+subjectcode coursenum
+----------- ---------
+EPS         350      
+EPS         555      
+
+professors
+----------
+Jay Ague  

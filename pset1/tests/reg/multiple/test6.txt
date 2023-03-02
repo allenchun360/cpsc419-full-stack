@@ -1,0 +1,16 @@
+$ $ python3 reg.py -n 9 -t advanced
+deptname                       subject num title                           crns 
+------------------------------ ------- --- ------------------------------- -----
+Computer Science (CPSC)        CPSC    479 Advanced Topics in Computer     13970
+                                           Graphics                             
+Computer Science (CPSC)        CPSC    579 Advanced Topics in Computer     15830
+                                           Graphics                             
+English Language & Literature  ENGL    469 Advanced Nonfiction Writing     10222
+(ENGL)                                                                          
+English Language & Literature  ENGL    992 Advanced Pedagogy               12456
+(ENGL)                                                                          
+Molecular, Cellular & Dev Biol MCDB    902 Advanced Graduate Seminar       16116
+(MCDB)                                                                          
+Psychology (PSYC)              PSYC    539 Advanced Psychopathology        11954
+South Asian Studies (SAST)     HNDI    198 Advanced Tutorial               12464
+South Asian Studies (SAST)     HNDI    598 Advanced Tutorial               13498

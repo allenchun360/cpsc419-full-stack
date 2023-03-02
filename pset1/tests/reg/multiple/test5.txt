@@ -1,0 +1,5 @@
+$ python3 reg.py -t intro -n 101
+deptname                       subject num title                           crns 
+------------------------------ ------- --- ------------------------------- -----
+Statistics and Data Science    S&DS    101 Introduction to Statistics:     11184
+(S&DS)                                     Life Sciences                        

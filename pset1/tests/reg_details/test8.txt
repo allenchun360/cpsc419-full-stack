@@ -1,0 +1,34 @@
+$ python3 regdetails.py 12028
+deptcode deptname                     subjectcode coursenum
+-------- ---------------------------- ----------- ---------
+EVST     Environmental Studies (EVST) EVST        234L     
+
+title                                        
+---------------------------------------------
+Field Science: Environment and Sustainability
+
+descrip                                                                         
+--------------------------------------------------------------------------------
+<p>A field course that explores the effects of human influences on the          
+environment. Analysis of pattern and process in forested ecosystems;            
+introduction to the principles of agroecology, including visits to local farms; 
+evaluation of sustainability within an urban environment. Weekly field trips and
+one weekend field trip.</p>                                                     
+
+prereqs
+-------
+None   
+
+sectionnumber crn   meetinginfo       
+------------- ----- ------------------
+1             12028 T 1.00-2.15 @ TBA 
+                    Th 1.00-5.00 @ TBA
+                    HTBA @ TBA        
+
+subjectcode coursenum
+----------- ---------
+EVST        234L     
+
+professors         
+-------------------
+Kealoha Freidenburg

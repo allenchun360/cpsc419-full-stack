@@ -1,0 +1,48 @@
+$ python3 regdetails.py 14258
+deptcode deptname          subjectcode coursenum
+-------- ----------------- ----------- ---------
+HUMS     Humanities (HUMS) HUMS        59       
+
+title                                                                           
+--------------------------------------------------------------------------------
+Why the Sublime? Or, The Meaning and Value of Transcendence through Theory,     
+Poetry, and Art                                                                 
+
+descrip                                                                         
+--------------------------------------------------------------------------------
+<p>Have you ever experienced something so powerful you couldn’t possibly        
+describe it? Have you ever felt both strongly attracted to and repulsed by      
+something in a way that defied all logic?&#160;This course explores the role,   
+structure, and value of the Sublime as an essential mode of human experience    
+through a variety of theoretical writings, poetic expressions, and artistic     
+outputs, in order to think through not only what the Sublime is but also why we 
+need it. The essential claim of the Sublime, writes Thomas Weiskel, is that we  
+can transcend the human. The etymology of the word suggests moving beyond       
+limits. To study the Sublime, then, is to confront what it means to be human at 
+and beyond our limits, whether those limits are constructed individually,       
+socially, intellectually, emotionally, perceptually, or otherwise. The writers  
+and artists we examine in this course show us that the affective registers of a 
+confrontation with the Sublime include fear, confusion, humility, weakness,     
+despair and (often at the same time)&#160;such opposites as courage, clarity,   
+strength, wisdom, and ecstasy. Together we interrogative the conditions and     
+significance of all of these Sublime feelings, and then take what we learn and  
+attempt to investigate the role of the Sublime in our contemporary moment, and  
+through our own personal experience.</p>                                        
+
+prereqs                                                                         
+--------------------------------------------------------------------------------
+<p class="prerequisites">Enrollment limited to first-year students.             
+Preregistration required; see under First-Year Seminar Program.</p>             
+
+sectionnumber crn   meetinginfo           
+------------- ----- ----------------------
+1             14258 TTh 2.30-3.45 @ HQ 129
+                    HTBA @ HQ 12          
+
+subjectcode coursenum
+----------- ---------
+HUMS        59       
+
+professors 
+-----------
+Riley Soles

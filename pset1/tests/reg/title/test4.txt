@@ -1,0 +1,55 @@
+$ python3 reg.py -t "l st"
+deptname                       subject num title                           crns 
+------------------------------ ------- --- ------------------------------- -----
+African American Studies       AFAM    561 Caribbean Literary and Cultural 14845
+(AFAM)                                     Studies                              
+American Studies (AMST)        AMST    612 Caribbean Literary and Cultural 14846
+                                           Studies                              
+Applied Mathematics (AMTH)     AMTH    666 Classical Statistical           12134
+                                           Thermodynamics                       
+Astronomy (ASTR)               ASTR    666 Classical Statistical           12135
+                                           Thermodynamics                       
+Classics (CLSS)                CLSS    881 Proseminar: Classical Studies   10160
+Computer Science (CPSC)        CPSC    419 Full Stack Web Programming      13382
+Computer Science (CPSC)        CPSC    519 Full Stack Web Programming      13385
+Earth and Planetary Sciences   EPS     487 Individual Study in Earth and   12138
+(EPS)                                      Planetary Sciences                   
+Earth and Planetary Sciences   EPS     666 Classical Statistical           12133
+(EPS)                                      Thermodynamics                       
+Economics (ECON)               ECON    480 Banking Crises and Financial    10349
+                                           Stability                            
+English Language & Literature  ENGL    761 Caribbean Literary and Cultural 14847
+(ENGL)                                     Studies                              
+Environmental Studies (EVST)   EVST    396 Independent Study:              16187
+                                           Environmental Studies                
+French (FREN)                  FREN    561 Caribbean Literary and Cultural 14848
+                                           Studies                              
+Global Affairs Program (GLBL)  GLBL    311 Banking Crises and Financial    10343
+                                           Stability                            
+Humanities (HUMS)              HUMS    73  Classical Storytelling in the   11750
+                                           Modern World                         
+Humanities (HUMS)              HUMS    244 Love, Marriage, Family: A       11616
+                                           Psychological Study through the      
+                                           Arts                                 
+Humanities (HUMS)              HUMS    471 Special Studies in the          13709
+                                           Humanities                           
+Italian Language & Literature  ITAL    470 Special Studies in Italian      10504
+(ITAL)                                     Literature                           
+Italian Language & Literature  ITAL    471 Special Studies in Italian      10505
+(ITAL)                                     Literature                           
+Management (MGMT)              MGMT    782 Doctoral Student Pre-Workshop   14576
+                                           Seminar                         14577
+                                                                           14578
+                                                                           14579
+                                                                           14580
+Mathematics (MATH)             MATH    470 Individual Studies              11335
+Mathematics (MATH)             MATH    666 Classical Statistical           12136
+                                           Thermodynamics                       
+Music Dept (MUSI)              MUSI    495 Individual Study                10535
+Psychology (PSYC)              PSYC    923 Individual Study: Theme Essay   11661
+Sociology (SOCY)               SOCY    471 Individual Study                16188
+Sociology (SOCY)               SOCY    625 Analysis of Social Structure    10655
+Statistics and Data Science    S&DS    480 Individual Studies              11360
+(S&DS)                                                                          
+Yale College College Seminar   CSSY    370 Classical Storytelling and      12670
+(YCCS)                                     Modern Screenwriting                 

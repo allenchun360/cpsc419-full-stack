@@ -1,0 +1,53 @@
+$ python3 reg.py -s FILM
+deptname                    subject num title                              crns 
+--------------------------- ------- --- ---------------------------------- -----
+Film & Media Studies (FILM) FILM    99  Film and the Arts                  14458
+Film & Media Studies (FILM) FILM    150 Introduction to Film Studies       10286
+Film & Media Studies (FILM) FILM    161 Introductory Film Writing and      11433
+                                        Directing                               
+Film & Media Studies (FILM) FILM    162 Introductory Documentary           11425
+                                        Filmmaking                              
+Film & Media Studies (FILM) FILM    209 Classics of German Cinema: From    11778
+                                        Haunted Screen to Hyperreality          
+Film & Media Studies (FILM) FILM    246 Introduction to African American   14878
+                                        Cinema                                  
+Film & Media Studies (FILM) FILM    280 The Science and Culture of Memory  12333
+Film & Media Studies (FILM) FILM    307 East Asian Martial Arts Film       11497
+Film & Media Studies (FILM) FILM    325 German Cinema 1918–1933            11865
+Film & Media Studies (FILM) FILM    327 Studies in Documentary Film        10287
+Film & Media Studies (FILM) FILM    329 Black Film and Theatre             14881
+Film & Media Studies (FILM) FILM    330 The Screenwriter's Craft           12306
+Film & Media Studies (FILM) FILM    341 Weird Greek Wave Cinema            12441
+Film & Media Studies (FILM) FILM    342 Global Korean Cinema               13393
+Film & Media Studies (FILM) FILM    351 Documentary, Fiction, Docufiction  10289
+Film & Media Studies (FILM) FILM    366 Spotlight on Sicily in Literature  12540
+                                        and Film                                
+Film & Media Studies (FILM) FILM    367 Contemporary Russian Media         15906
+Film & Media Studies (FILM) FILM    393 Early Modern Media                 13410
+Film & Media Studies (FILM) FILM    404 The Tracking Shot                  13898
+Film & Media Studies (FILM) FILM    433 Family Narratives/Cultural Shifts  10011
+Film & Media Studies (FILM) FILM    455 Documentary Film Workshop          10290
+Film & Media Studies (FILM) FILM    471 Independent Directed Study         10291
+Film & Media Studies (FILM) FILM    483 Advanced Film Writing and          11444
+                                        Directing                               
+Film & Media Studies (FILM) FILM    487 Advanced Screenwriting             10292
+Film & Media Studies (FILM) FILM    491 The Senior Essay                   10293
+Film & Media Studies (FILM) FILM    493 The Senior Project                 10294
+Film & Media Studies (FILM) FILM    605 Film and Media Studies Certificate 10301
+                                        Workshop                                
+Film & Media Studies (FILM) FILM    617 Psychoanalysis: Key Conceptual     11840
+                                        Differences between Freud and           
+                                        Lacan                                   
+Film & Media Studies (FILM) FILM    629 Documentary, Fiction, Docufiction  10302
+Film & Media Studies (FILM) FILM    653 Studies in Documentary Film        10303
+Film & Media Studies (FILM) FILM    704 Perspectives on the Panorama       15901
+Film & Media Studies (FILM) FILM    735 Documentary Film Workshop          10304
+Film & Media Studies (FILM) FILM    775 Post-Stalin Literature and Film    10867
+Film & Media Studies (FILM) FILM    779 Italian Film Ecologies: Yesterday, 14071
+                                        Today, and Tomorrow                     
+Film & Media Studies (FILM) FILM    799 Sound Studies                      15730
+Film & Media Studies (FILM) FILM    833 Semiotics                          10305
+Film & Media Studies (FILM) FILM    834 What is a Dispositif, Today?       13801
+Film & Media Studies (FILM) FILM    893 Japanese Comedy                    11499
+Film & Media Studies (FILM) FILM    900 Directed Reading                   10306
+Film & Media Studies (FILM) FILM    901 Individual Research                10307

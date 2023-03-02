@@ -1,0 +1,151 @@
+$ python3 reg.py -s SS
+deptname                       subject num title                           crns 
+------------------------------ ------- --- ------------------------------- -----
+Classics (CLSS)                CLSS    490 Two-Term Senior Essay for the   10149
+                                           Intensive Major in Classics          
+Classics (CLSS)                CLSS    492 One-Term Senior Essay for the   10150
+                                           Intensive Major in Classics          
+Classics (CLSS)                CLSS    605 Greek Papyrology                10158
+Classics (CLSS)                CLSS    849 Enargeia and Ecphrasis          10159
+Classics (CLSS)                CLSS    851 American Epics                  13893
+Classics (CLSS)                CLSS    879 Stoicism                        10583
+Classics (CLSS)                CLSS    881 Proseminar: Classical Studies   10160
+Classics (CLSS)                CLSS    896 History of Greek Literature I   10161
+Film & Media Studies (FILM)    RUSS    367 Contemporary Russian Media      16018
+Slavic Languages & Literatures RUSS    26  Culture and Everyday Life in    14089
+(SLAV)                                     Central Asia                         
+Slavic Languages & Literatures RUSS    110 First-Year Russian I            10624
+(SLAV)                                                                     10625
+Slavic Languages & Literatures RUSS    122 Russian for Heritage Learners I 10627
+(SLAV)                                                                          
+Slavic Languages & Literatures RUSS    125 Intensive Elementary Russian    10628
+(SLAV)                                                                          
+Slavic Languages & Literatures RUSS    130 Second-Year Russian I           10630
+(SLAV)                                                                     10631
+                                                                           12509
+Slavic Languages & Literatures RUSS    150 Third-Year Russian I            10632
+(SLAV)                                                                          
+Slavic Languages & Literatures RUSS    160 Fourth-Year Russian I           10633
+(SLAV)                                                                          
+Slavic Languages & Literatures RUSS    172 Russian History through         10634
+(SLAV)                                     Literature and Film                  
+Slavic Languages & Literatures RUSS    179 The Grotesque in Victor Pelevin 10635
+(SLAV)                                                                          
+Slavic Languages & Literatures RUSS    252 Modernism and Revolution        10798
+(SLAV)                                                                          
+Slavic Languages & Literatures RUSS    305 Modernist Paris and Moscow      11759
+(SLAV)                                                                          
+Slavic Languages & Literatures RUSS    312 Tolstoy's <i> War and Peace     10748
+(SLAV)                                     </i>TR                               
+Slavic Languages & Literatures RUSS    325 Ten Eurasian Cities             15908
+(SLAV)                                                                          
+Slavic Languages & Literatures RUSS    338 Documentary, Fiction,           10299
+(SLAV)                                     Docufiction                          
+Slavic Languages & Literatures RUSS    480 Directed Reading in Russian     16162
+(SLAV)                                     Literature                           
+Slavic Languages & Literatures RUSS    490 The Senior Essay                16161
+(SLAV)                                                                          
+Slavic Languages & Literatures RUSS    608 Eighteenth-Century Russian      10797
+(SLAV)                                     Literature                           
+Slavic Languages & Literatures RUSS    681 Russian Romantic Poetry         10791
+(SLAV)                                                                          
+Slavic Languages & Literatures RUSS    696 Post-Stalin Literature and Film 10868
+(SLAV)                                                                          
+Slavic Languages & Literatures RUSS    715 Documentary, Fiction,           10310
+(SLAV)                                     Docufiction                          
+Slavic Languages & Literatures RUSS    834 Aspects of Russian Grammar and  14058
+(SLAV)                                     Teaching Methodology                 
+Women's Gender & Sexuality     WGSS    27  Six Pretty Good Selves          10515
+Studies (WGSS)                                                                  
+Women's Gender & Sexuality     WGSS    125 “We Interrupt this Program:     10723
+Studies (WGSS)                             The Multidimensional Histories       
+                                           of Queer and Trans Politics”         
+Women's Gender & Sexuality     WGSS    195 Meanings of Life                12274
+Studies (WGSS)                                                                  
+Women's Gender & Sexuality     WGSS    202 Identity, Diversity, and Policy 11622
+Studies (WGSS)                             in U.S. Education                    
+Women's Gender & Sexuality     WGSS    206 Transnational Approaches to     10724
+Studies (WGSS)                             Gender & Sexuality                   
+Women's Gender & Sexuality     WGSS    207 Gender, Justice, Power,         11706
+Studies (WGSS)                             Institutions                         
+Women's Gender & Sexuality     WGSS    209 Dionysus in Modernity           15873
+Studies (WGSS)                                                                  
+Women's Gender & Sexuality     WGSS    220 Women & Politics                11909
+Studies (WGSS)                                                                  
+Women's Gender & Sexuality     WGSS    232 Porvida: Latinx Queer Trans     16035
+Studies (WGSS)                             Life                                 
+Women's Gender & Sexuality     WGSS    233 Weird Greek Wave Cinema         12442
+Studies (WGSS)                                                                  
+Women's Gender & Sexuality     WGSS    238 Foucault and the Sexual Self    10725
+Studies (WGSS)                                                                  
+Women's Gender & Sexuality     WGSS    251 Experiments in the Novel: The   10240
+Studies (WGSS)                             Eighteenth Century                   
+Women's Gender & Sexuality     WGSS    260 Food, Identity and Desire       10726
+Studies (WGSS)                                                                  
+Women's Gender & Sexuality     WGSS    291 Sexual Minorities from Plato to 10727
+Studies (WGSS)                             the Enlightenment                    
+Women's Gender & Sexuality     WGSS    312 Technology, Race and Gender     13940
+Studies (WGSS)                                                                  
+Women's Gender & Sexuality     WGSS    315 Psychology of Gender            15772
+Studies (WGSS)                                                                  
+Women's Gender & Sexuality     WGSS    318 Race as Spectacle               10281
+Studies (WGSS)                                                                  
+Women's Gender & Sexuality     WGSS    343 Caribbean Diasporic Literature  13249
+Studies (WGSS)                                                                  
+Women's Gender & Sexuality     WGSS    351 Greek Tragedy and               13476
+Studies (WGSS)                             Psychoanalysis                       
+Women's Gender & Sexuality     WGSS    358 Black Queer Jewish Italy        15122
+Studies (WGSS)                                                                  
+Women's Gender & Sexuality     WGSS    378 Sex and Global Politics         14433
+Studies (WGSS)                                                                  
+Women's Gender & Sexuality     WGSS    383 Queer Writing Before Stonewall  11878
+Studies (WGSS)                                                                  
+Women's Gender & Sexuality     WGSS    390 Politics of Reproduction        10646
+Studies (WGSS)                                                                  
+Women's Gender & Sexuality     WGSS    408 Latinx Ethnography              15914
+Studies (WGSS)                                                                  
+Women's Gender & Sexuality     WGSS    415 Samuel Delany and His Worlds    16101
+Studies (WGSS)                                                                  
+Women's Gender & Sexuality     WGSS    430 Gender and Citizenship in the   10728
+Studies (WGSS)                             Middle East                          
+Women's Gender & Sexuality     WGSS    432 Social Ontology                 10571
+Studies (WGSS)                                                                  
+Women's Gender & Sexuality     WGSS    448 American Medicine and the Cold  10043
+Studies (WGSS)                             War                                  
+Women's Gender & Sexuality     WGSS    471 Independent Directed Study      10729
+Studies (WGSS)                                                                  
+Women's Gender & Sexuality     WGSS    490 The Senior Colloquium           10730
+Studies (WGSS)                                                                  
+Women's Gender & Sexuality     WGSS    529 Sexuality, Gender, Health, and  14460
+Studies (WGSS)                             Human Rights                         
+Women's Gender & Sexuality     WGSS    590 Critical University Studies     10738
+Studies (WGSS)                                                                  
+Women's Gender & Sexuality     WGSS    600 Introduction to Women’s,        11705
+Studies (WGSS)                             Gender, and Sexuality Studies        
+Women's Gender & Sexuality     WGSS    613 Latinx Ethnography              10077
+Studies (WGSS)                                                                  
+Women's Gender & Sexuality     WGSS    629 Politics of Reproduction        10794
+Studies (WGSS)                                                                  
+Women's Gender & Sexuality     WGSS    644 Social Ontology                 12069
+Studies (WGSS)                                                                  
+Women's Gender & Sexuality     WGSS    667 History of Gender and Sexuality 10451
+Studies (WGSS)                             in Modern Europe                     
+Women's Gender & Sexuality     WGSS    690 Theories of Care and Cure:      12674
+Studies (WGSS)                             Illness Narratives and Medical       
+                                           Justice                              
+Women's Gender & Sexuality     WGSS    745 Queer of Color Transits and the 10739
+Studies (WGSS)                             Imaginaries of Racial                
+                                           Capitalism                           
+Women's Gender & Sexuality     WGSS    756 Liberalisms, Queer Feminisms,   14140
+Studies (WGSS)                             and the Social Contract              
+Women's Gender & Sexuality     WGSS    779 Sensational Materialities:      11789
+Studies (WGSS)                             Sensory Cultures in History,         
+                                           Theory, and Method                   
+Women's Gender & Sexuality     WGSS    782 Disability Histories: Research  10056
+Studies (WGSS)                             Seminar                              
+Women's Gender & Sexuality     WGSS    900 Colloquium and Working Group    10740
+Studies (WGSS)                                                                  
+Yale College College Seminar   CSSM    370 Contemporary Novel Writing      11486
+(YCCS)                                                                          
+Yale College College Seminar   CSSY    370 Classical Storytelling and      12670
+(YCCS)                                     Modern Screenwriting                 

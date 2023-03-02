@@ -1,0 +1,121 @@
+$ python3 regdetails.py 12678
+deptcode deptname         subjectcode coursenum
+-------- ---------------- ----------- ---------
+CHEM     Chemistry (CHEM) CHEM        990      
+
+title   
+--------
+Research
+
+descrip                                                                         
+--------------------------------------------------------------------------------
+Individual research for Ph.D. degree candidates in the Department of Chemistry, 
+under the direct supervision of one or more faculty members.                    
+
+prereqs
+-------
+None   
+
+sectionnumber crn   meetinginfo
+------------- ----- -----------
+1             12678 HTBA @ TBA 
+2             12679 HTBA @ TBA 
+3             12680 HTBA @ TBA 
+4             12681 HTBA @ TBA 
+5             12682 HTBA @ TBA 
+6             12684 HTBA @ TBA 
+7             12685 HTBA @ TBA 
+8             12686 HTBA @ TBA 
+9             12687 HTBA @ TBA 
+10            12688 HTBA @ TBA 
+11            12689 HTBA @ TBA 
+12            12691 HTBA @ TBA 
+13            12692 HTBA @ TBA 
+14            12693 HTBA @ TBA 
+15            12694 HTBA @ TBA 
+16            12695 HTBA @ TBA 
+17            12696 HTBA @ TBA 
+18            12697 HTBA @ TBA 
+19            12698 HTBA @ TBA 
+20            12699 HTBA @ TBA 
+21            12701 HTBA @ TBA 
+22            12702 HTBA @ TBA 
+23            12703 HTBA @ TBA 
+24            12704 HTBA @ TBA 
+25            12705 HTBA @ TBA 
+26            12706 HTBA @ TBA 
+27            12707 HTBA @ TBA 
+28            12708 HTBA @ TBA 
+29            12709 HTBA @ TBA 
+30            12711 HTBA @ TBA 
+31            12712 HTBA @ TBA 
+32            12714 HTBA @ TBA 
+33            12715 HTBA @ TBA 
+34            12717 HTBA @ TBA 
+35            12718 HTBA @ TBA 
+36            12720 HTBA @ TBA 
+37            12721 HTBA @ TBA 
+38            12723 HTBA @ TBA 
+39            12725 HTBA @ TBA 
+40            12726 HTBA @ TBA 
+41            12727 HTBA @ TBA 
+42            12728 HTBA @ TBA 
+43            12729 HTBA @ TBA 
+44            12731 HTBA @ TBA 
+45            12733 HTBA @ TBA 
+46            12736 HTBA @ TBA 
+47            12737 HTBA @ TBA 
+48            12739 HTBA @ TBA 
+49            12742 HTBA @ TBA 
+50            12744 HTBA @ TBA 
+
+subjectcode coursenum
+----------- ---------
+CHEM        990      
+
+professors            
+----------------------
+Andrew Miranker       
+Anna Marie Pyle       
+Anton Bennett         
+Benjamin Turk         
+Caitlin Davis         
+Corey O'Hern          
+Craig Crews           
+Daniel DiMaio         
+David Spiegel         
+E. Chui-Ying Yan      
+Gary Brudvig          
+Hailiang Wang         
+J Patrick Loria       
+James Mayer           
+Jason Crawford        
+Jing Yan              
+Joe Howard            
+Jon Ellman            
+Judy Cha              
+Julien Berro          
+Krystal Pollitt       
+Kurt Zilm             
+Lisa Pfefferle        
+Mark Hochstrasser     
+Mark Johnson          
+Matthew Simon         
+Nilay Hazari          
+Patrick Holland       
+Patrick Vaccaro       
+Paul Anastas          
+Sarah Slavoff         
+Scott Miller          
+Scott Strobel         
+Seth Herzon           
+Sharon Hammes-Schiffer
+Stacy Malaker         
+Stavroula Hatzios     
+Stephen Strittmatter  
+Thomas Pollard        
+Tianyu Zhu            
+Timothy Newhouse      
+Victor Batista        
+W. Mark Saltzman      
+William Jorgensen     

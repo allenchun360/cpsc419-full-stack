@@ -1,0 +1,89 @@
+$ python3 reg.py -s MATH
+deptname           subject num title                                       crns 
+------------------ ------- --- ------------------------------------------- -----
+Mathematics (MATH) MATH    108 Estimation and Error                        11251
+Mathematics (MATH) MATH    110 Introduction to Functions and Calculus I    10803
+                                                                           10804
+                                                                           10805
+                                                                           15885
+Mathematics (MATH) MATH    112 Calculus of Functions of One Variable I     10806
+                                                                           10807
+                                                                           10808
+                                                                           10809
+                                                                           10810
+                                                                           10811
+                                                                           15886
+Mathematics (MATH) MATH    115 Calculus of Functions of One Variable II    10812
+                                                                           10813
+                                                                           10814
+                                                                           10815
+                                                                           10816
+                                                                           10817
+                                                                           10818
+                                                                           10819
+                                                                           15888
+                                                                           15889
+                                                                           15890
+Mathematics (MATH) MATH    116 Mathematical Models in the Biosciences I:   11253
+                               Calculus Techniques                         11254
+Mathematics (MATH) MATH    118 Introduction to Functions of Several        11298
+                               Variables                                        
+Mathematics (MATH) MATH    120 Calculus of Functions of Several Variables  10820
+                                                                           10821
+                                                                           10822
+                                                                           10823
+                                                                           10824
+                                                                           10825
+                                                                           10826
+                                                                           10827
+                                                                           15891
+                                                                           15892
+Mathematics (MATH) MATH    222 Linear Algebra with Applications            11299
+                                                                           11301
+                                                                           11303
+Mathematics (MATH) MATH    225 Linear Algebra                              11309
+                                                                           11310
+Mathematics (MATH) MATH    226 Linear Algebra (Intensive)                  11311
+Mathematics (MATH) MATH    241 Probability Theory                          11227
+Mathematics (MATH) MATH    244 Discrete Mathematics                        11312
+                                                                           11314
+Mathematics (MATH) MATH    246 Ordinary Differential Equations             11316
+Mathematics (MATH) MATH    255 Analysis 1                                  11319
+Mathematics (MATH) MATH    270 Set Theory                                  11324
+Mathematics (MATH) MATH    302 Vector Analysis and Integration on          11325
+                               Manifolds                                        
+Mathematics (MATH) MATH    310 Introduction to Complex Analysis            11326
+Mathematics (MATH) MATH    320 Measure Theory and Integration              11327
+Mathematics (MATH) MATH    322 Geometric and Topological Methods in        12839
+                               Machine Learning                                 
+Mathematics (MATH) MATH    330 Advanced Probability                        11240
+Mathematics (MATH) MATH    345 Modern Combinatorics                        11328
+Mathematics (MATH) MATH    350 Introduction to Abstract Algebra            11329
+Mathematics (MATH) MATH    373 Algebraic Number Theory                     11330
+Mathematics (MATH) MATH    380 Algebra                                     11332
+Mathematics (MATH) MATH    470 Individual Studies                          11335
+Mathematics (MATH) MATH    475 Senior Essay                                11337
+Mathematics (MATH) MATH    480 Senior Seminar: Mathematical Topics         11338
+                                                                           13996
+Mathematics (MATH) MATH    500 Algebra                                     11351
+Mathematics (MATH) MATH    520 Measure Theory and Integration              11346
+Mathematics (MATH) MATH    522 Geometric and Topological Methods in        13094
+                               Machine Learning                                 
+Mathematics (MATH) MATH    526 Introduction to Differentiable Manifolds    11339
+Mathematics (MATH) MATH    544 Introduction to Algebraic Topology          11341
+Mathematics (MATH) MATH    573 Algebraic Number Theory                     11353
+Mathematics (MATH) MATH    621 Introduction to Ergodic Theory and          15383
+                               Dynamical Systems                                
+Mathematics (MATH) MATH    627 Probability  Theory                         12056
+Mathematics (MATH) MATH    628 Harmonic Analysis                           13092
+Mathematics (MATH) MATH    666 Classical Statistical Thermodynamics        12136
+Mathematics (MATH) MATH    675 Numerical Methods for Partial Differential  15665
+                               Equations                                        
+Mathematics (MATH) MATH    701 Topics in Analysis                          11554
+Mathematics (MATH) MATH    718 Enumerative Geometry and Integrable Systems 11611
+Mathematics (MATH) MATH    719 Introduction to Anosov Subgroups            12505
+Mathematics (MATH) MATH    720 Topics in Representation theory             11608
+Mathematics (MATH) MATH    721 Topics in Homogeneous Dynamics              11617
+Mathematics (MATH) MATH    722 Minimal Surfaces                            11609
+Mathematics (MATH) MATH    723 Random Structures                           11612
+Mathematics (MATH) MATH    991 Ethical Conduct of Research                 10895

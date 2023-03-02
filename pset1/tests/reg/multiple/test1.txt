@@ -1,0 +1,8 @@
+$ python3 reg.py -d CP -n 10
+deptname                      subject num title                            crns 
+----------------------------- ------- --- -------------------------------- -----
+Comparative Literature (CPLT) LITR    101 Purposes of College Education    10760
+Computer Science (CPSC)       CPSC    100 Introduction to Computing and    10932
+                                          Programming                           
+Computer Science (CPSC)       CPSC    110 Python Programming for           15910
+                                          Humanities and Social Sciences        

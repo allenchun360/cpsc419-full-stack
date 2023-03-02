@@ -1,0 +1,7 @@
+$ python3 reg.py -t 'rock formation' -s EP
+deptname                       subject num title                           crns 
+------------------------------ ------- --- ------------------------------- -----
+Earth and Planetary Sciences   EPS     350 Rock Formation in Mountain      12074
+(EPS)                                      Belts                                
+Earth and Planetary Sciences   EPS     555 Rock Formation in Mountain      12076
+(EPS)                                      Belts                                

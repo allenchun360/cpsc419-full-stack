@@ -1,0 +1,44 @@
+$ python3 regdetails.py 12595
+deptcode deptname                      subjectcode coursenum
+-------- ----------------------------- ----------- ---------
+LAST     Latin American Studies (LAST) LAST        100      
+
+title                                                               
+--------------------------------------------------------------------
+Introduction to Latin American Studies: History, Culture and Society
+
+descrip                                                                         
+--------------------------------------------------------------------------------
+<p>What is Latin America? The large area we refer to as Latin America is not    
+unified by a single language, history, religion, or type of government. Nor is  
+it unified by a shared geography or by the prevalence of a common language or   
+ethnic group. Yet Latin America does, obviously, exist. It is a region forged   
+from the merging of diverse cultures, historical experiences, and processes of  
+resistance. This course provides an overview of Latin America and the Caribbean 
+from the 16th century up to the present. While the class aims to provide        
+students with an understanding of the region, due to time constraints, it       
+focuses primarily on the experiences and histories of selected countries. The   
+course introduces students to some of the most important debates about the      
+region’s history, politics, society, and culture. The course follows a          
+chronological structure while also highlighting thematic questions. Drawing on  
+academic readings, films, music, art, literature, testimony, oral histories, and
+writings from local voices the class explores the political transformation of   
+the region, as well as topics related to ethnic and racial identity, revolution,
+social movements, religion, violence, military rule, democracy, transition to   
+democracy, and migration.&#160;</p>                                             
+
+prereqs
+-------
+None   
+
+sectionnumber crn   meetinginfo           
+------------- ----- ----------------------
+1             12595 MW 2.30-3.45 @ WTS A30
+
+subjectcode coursenum
+----------- ---------
+LAST        100      
+
+professors   
+-------------
+Maria Aguilar

@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Search courses</title>
+    </head>
+    <header>
+        <h1>Course Search</h1>
+    </header>
+    <br>
+    <style>table, th ,td {border:1px solid black}</style>
+    <body>
+        <form action="search" method="get">
+            <label for="Department">Department Name<label>
+            <input type="text" name="Department" value={{prev_department}}><br><br>
+            <label for="Course Number">Course Number</label>
+            <input type="text" name="Course Number" value={{prev_coursenum}}><br><br>
+            <label for="Subject">Subject</label>
+            <input type="text" name="Subject" value={{prev_subject}}><br><br>
+            <label for="Title">Title</label>
+            <input type="text" name="Title" value={{prev_title}}><br><br>
+            <input type="submit" value="Search">
+        </form>
+        <br>
+        <br>
+        <br>
+        <hr>
+        <br>
+        {% if table != [] %}
+            <table>
+                <tr>
+                    <th>CRN</th>    
+                    <th>Department Name</th> 
+                    <th>Subject Code</th>
+                    <th>Course Number</th>
+                    <th>Title</th>
+                </tr>
+                {% for row in table: %}
+                    <tr>
+                        <td><a href="details?crn={{row.get_crn()}}">{{row.get_crn()}}</a></td>
+                        <td>{{row.get_deptname()}}</td>
+                        <td>{{row.get_subjectcode()}}</td>
+                        <td>{{row.get_coursenum()}}</td>
+                        <td>{{row.get_title()}}</td>
+                    </tr>
+                {% endfor %}
+            </table>
+        {% endif %}
+        <br>
+        <br>
+        <br>
+    </body>
+    <footer>
+        {% include 'footer.html' %}
+    </footer>
+</html>

@@ -1,0 +1,2 @@
+$ python3 regdetails.py 1
+No course found

@@ -1,0 +1,12 @@
+$ python3 reg.py -n 100
+deptname                       subject num title                           crns 
+------------------------------ ------- --- ------------------------------- -----
+Computer Science (CPSC)        CPSC    100 Introduction to Computing and   10932
+                                           Programming                          
+Earth and Planetary Sciences   EPS     100 Natural Disasters               12113
+(EPS)                                                                           
+Latin American Studies (LAST)  LAST    100 Introduction to Latin American  12595
+                                           Studies: History, Culture and        
+                                           Society                              
+Naval Science (NAVY)           NAVY    100 Naval Science Laboratory        10548
+Spanish & Portuguese (SP&P)    SPAN    100 Spanish for Reading             10670
